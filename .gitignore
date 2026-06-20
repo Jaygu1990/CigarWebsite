@@ -1,0 +1,13 @@
+node_modules/
+data/
+site/uploads/
+*.log
+.DS_Store
+Thumbs.db
+
+# local scraping / recon artifacts (not needed to run the site)
+scrape/
+recon-out/
+capture-out/
+extract-out/
+test/

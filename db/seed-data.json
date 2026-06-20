@@ -1,0 +1,67 @@
+{
+  "brands": [
+    { "name_en": "Cohiba", "name_cn": "高希霸", "image": "/images/brands/cohiba/logo.jpg" },
+    { "name_en": "Montecristo", "name_cn": "蒙特", "image": "/images/brands/montecristo/logo.jpg" },
+    { "name_en": "Partagás", "name_cn": "帕特加斯", "image": "/images/brands/partagás/logo.jpg" },
+    { "name_en": "Romeo y Julieta", "name_cn": "罗密欧与朱丽叶", "image": "/images/brands/romeo_y_julieta/logo.jpg" },
+    { "name_en": "Trinidad", "name_cn": "千里达", "image": "/images/brands/trinidad/logo.jpg" },
+    { "name_en": "Bolívar", "name_cn": "玻利瓦", "image": "/images/brands/bolívar/logo.jpg" }
+  ],
+  "products": [
+    {
+      "brand": "Cohiba", "name_en": "Cohiba Behike 52", "name_cn": "高希霸 世纪 52", "dimension": "52 x 119mm",
+      "image": null, "is_annual_limited": 0, "is_regional_limited": 0, "limited_region": null,
+      "listings": [
+        { "site": "德国大胡子 LCDH", "url": "https://www.tecon-gmbh.de", "price_cny": 6800, "price_foreign": 850, "currency": "EUR", "pack_count": 10, "shipping": "34欧", "note": "全网最低，货极少", "updated_date": "2026-06-18" },
+        { "site": "瑞士尼翁 LCDH", "url": "https://la-casa-del-habano-nyon.com/zh/", "price_cny": 7200, "price_foreign": 920, "currency": "CHF", "pack_count": 10, "shipping": "35chf", "note": "瑞行公价", "updated_date": "2026-06-17" },
+        { "site": "德国小杜 LCDH", "url": "https://selected-cigars.com", "price_cny": 6950, "price_foreign": 870, "currency": "EUR", "pack_count": 10, "shipping": "30-40欧", "note": "整盒，德行公价", "updated_date": "2026-06-19" }
+      ]
+    },
+    {
+      "brand": "Cohiba", "name_en": "Cohiba Robusto", "name_cn": "高希霸 罗布图", "dimension": "50 x 124mm",
+      "image": null, "is_annual_limited": 0, "is_regional_limited": 0, "limited_region": null,
+      "listings": [
+        { "site": "瑞士尼翁 LCDH", "url": "https://la-casa-del-habano-nyon.com/zh/", "price_cny": 3600, "price_foreign": 460, "currency": "CHF", "pack_count": 25, "shipping": "35chf", "note": "整盒", "updated_date": "2026-06-17" },
+        { "site": "德国莱比锡 LCDH", "url": "http://www.tabak-kontor.de", "price_cny": 3480, "price_foreign": 435, "currency": "EUR", "pack_count": 25, "shipping": "35欧", "note": "德行公价", "updated_date": "2026-06-15" }
+      ]
+    },
+    {
+      "brand": "Cohiba", "name_en": "Cohiba Talismán Edición Limitada 2017", "name_cn": "高希霸 护身符 限量版", "dimension": "54 x 154mm",
+      "image": null, "is_annual_limited": 1, "is_regional_limited": 0, "limited_region": null,
+      "listings": [
+        { "site": "瑞士尼翁 LCDH", "url": "https://la-casa-del-habano-nyon.com/zh/", "price_cny": 9800, "price_foreign": 1250, "currency": "CHF", "pack_count": 10, "shipping": "35chf", "note": "年度限量，稀缺", "updated_date": "2026-06-16" }
+      ]
+    },
+    {
+      "brand": "Montecristo", "name_en": "Montecristo No.2", "name_cn": "蒙特 2号", "dimension": "52 x 156mm",
+      "image": null, "is_annual_limited": 0, "is_regional_limited": 0, "limited_region": null,
+      "listings": [
+        { "site": "德国科隆 LCDH", "url": "http://www.peterheinrichs.de", "price_cny": 2950, "price_foreign": 369, "currency": "EUR", "pack_count": 25, "shipping": "35欧", "note": "登录自动退税", "updated_date": "2026-06-16" },
+        { "site": "ONE站", "url": "https://www.cigarone.com", "price_cny": 2880, "price_foreign": 360, "currency": "EUR", "pack_count": 25, "shipping": "30chf 满150包邮", "note": "好货多", "updated_date": "2026-06-19" }
+      ]
+    },
+    {
+      "brand": "Partagás", "name_en": "Partagás Serie D No.4", "name_cn": "帕特加斯 D4", "dimension": "50 x 124mm",
+      "image": null, "is_annual_limited": 0, "is_regional_limited": 0, "limited_region": null,
+      "listings": [
+        { "site": "德国小杜 LCDH", "url": "https://selected-cigars.com", "price_cny": 2680, "price_foreign": 335, "currency": "EUR", "pack_count": 25, "shipping": "30-40欧", "note": "整盒", "updated_date": "2026-06-18" },
+        { "site": "SP站", "url": "https://www.smokingpipes.com", "price_cny": 2750, "price_foreign": 385, "currency": "USD", "pack_count": 25, "shipping": "低邮费", "note": "新手神站", "updated_date": "2026-06-19" }
+      ]
+    },
+    {
+      "brand": "Romeo y Julieta", "name_en": "Romeo y Julieta Maravillas 8", "name_cn": "罗密欧与朱丽叶 马拉维拉斯 8", "dimension": "55 x 145mm",
+      "image": null, "is_annual_limited": 0, "is_regional_limited": 1, "limited_region": "亚太 (Asia Pacific)",
+      "listings": [
+        { "site": "香港生活站", "url": "https://tobaccolifestyle.com", "price_cny": 5200, "price_foreign": 5600, "currency": "HKD", "pack_count": 10, "shipping": "80-300港币", "note": "亚太地区限量", "updated_date": "2026-06-14" }
+      ]
+    },
+    {
+      "brand": "Trinidad", "name_en": "Trinidad Vigía", "name_cn": "千里达 守望者", "dimension": "54 x 110mm",
+      "image": null, "is_annual_limited": 0, "is_regional_limited": 0, "limited_region": null,
+      "listings": [
+        { "site": "瑞士尼翁 LCDH", "url": "https://la-casa-del-habano-nyon.com/zh/", "price_cny": 4100, "price_foreign": 525, "currency": "CHF", "pack_count": 12, "shipping": "35chf", "note": "瑞行公价", "updated_date": "2026-06-17" },
+        { "site": "德国大胡子 LCDH", "url": "https://www.tecon-gmbh.de", "price_cny": 3950, "price_foreign": 495, "currency": "EUR", "pack_count": 12, "shipping": "34欧", "note": "全网最低", "updated_date": "2026-06-18" }
+      ]
+    }
+  ]
+}

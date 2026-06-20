@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>雪茄老友会 · 有性格的雪茄</title>
+<link rel="icon" href="/favicon.ico"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,800;0,900;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+SC:wght@400;500;700;900&family=ZCOOL+QingKe+HuangYou&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/assets/oldguard.css"/>
+</head>
+<body>
+<div class="page">
+
+  <!-- top hairline -->
+  <div class="topline"></div>
+
+  <!-- header -->
+  <header class="header">
+    <a class="brand" href="/">
+      <span class="crest" aria-hidden="true">
+        <svg viewBox="0 0 48 56" width="40" height="46">
+          <path d="M24 2 L44 9 V30 C44 44 35 51 24 54 C13 51 4 44 4 30 V9 Z" fill="none" stroke="currentColor" stroke-width="2"/>
+          <path d="M24 6 L40 11.5 V30 C40 41.5 32.5 47.5 24 50 C15.5 47.5 8 41.5 8 30 V11.5 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+          <text x="24" y="35" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="22" font-weight="900" fill="currentColor">友</text>
+          <path d="M16 9 q8 -6 16 0" fill="none" stroke="currentColor" stroke-width="1.3"/>
+        </svg>
+      </span>
+      <span class="brand-name">雪茄老友会</span>
+    </a>
+
+    <nav class="nav">
+      <a class="active" href="/">首页</a>
+      <a href="/products.html">产品库</a>
+      <a href="/shop.html">海淘</a>
+      <a href="#directory">品牌目录</a>
+      <a href="#footer">联系我们</a>
+    </nav>
+
+    <div class="est">
+      <span class="est-line">始于</span>
+      <span class="est-year">2021</span>
+    </div>
+  </header>
+
+  <!-- hero -->
+  <section class="hero frame">
+    <div class="hero-art">
+      <div class="art-frame">
+        <img src="/images/hero/main.gif" alt="绅士品鉴雪茄"/>
+      </div>
+    </div>
+
+    <div class="hero-copy">
+      <h1 class="display">有性格的<br/>雪茄</h1>
+      <p class="lede">旧世界工艺 &middot; 现代标准 &middot; 绝不将就</p>
+      <a class="btn" href="/products.html">进入雪茄房</a>
+    </div>
+  </section>
+
+  <!-- directory -->
+  <section class="directory frame" id="directory">
+    <h2 class="section-title">雪茄品牌目录</h2>
+    <p class="section-sub">从 A 到 Z &middot; 遍览雪茄世界</p>
+
+    <div class="dir-toggle" id="dir-toggle"></div>
+    <div class="alpha" id="alpha"></div>
+    <div class="rule"></div>
+
+    <div class="dir-grid" id="dir-grid">
+      <div class="dir-loading">正在加载目录&hellip;</div>
+    </div>
+
+    <p class="dir-foot">&#10086;&nbsp; 没找到想要的品牌？可用上方 A&ndash;Z 浏览完整列表。 &nbsp;&#10086;</p>
+  </section>
+
+  <!-- featured -->
+  <section class="featured frame">
+    <div class="feat-card">
+      <div class="feat-head">&#10070; 精选雪茄 &#10070;</div>
+      <div class="feat-name" id="feat-name">老友珍藏 Old Friends Reserve</div>
+      <div class="feat-cigar" aria-hidden="true">
+        <svg viewBox="0 0 320 70" width="300" height="66">
+          <defs>
+            <linearGradient id="wrap" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#6b4a2b"/>
+              <stop offset="0.5" stop-color="#4a3018"/>
+              <stop offset="1" stop-color="#2f1d0e"/>
+            </linearGradient>
+          </defs>
+          <rect x="36" y="20" width="250" height="30" rx="15" fill="url(#wrap)"/>
+          <rect x="22" y="24" width="22" height="22" rx="6" fill="#d8c9a3"/>
+          <ellipse cx="286" cy="35" rx="9" ry="15" fill="#3a2512"/>
+          <rect x="120" y="26" width="58" height="18" rx="3" fill="#1f140a"/>
+          <text x="149" y="40" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="13" font-weight="800" fill="#c79a4b">友</text>
+        </svg>
+      </div>
+      <p class="feat-desc">醇厚浓郁 &middot; 均衡协调 &middot; 传承经典</p>
+      <a class="feat-link" href="/products.html">查看详情 &rarr;</a>
+    </div>
+
+    <div class="feat-points">
+      <div class="point">
+        <span class="pt-ico">&#127869;</span>
+        <div>
+          <div class="pt-title">精心陈化</div>
+          <div class="pt-sub">耐心窖藏陈化，成就层次与风骨。</div>
+        </div>
+      </div>
+      <div class="point">
+        <span class="pt-ico">&#127811;</span>
+        <div>
+          <div class="pt-title">优质烟叶</div>
+          <div class="pt-sub">甄选自全球顶级烟叶产区。</div>
+        </div>
+      </div>
+      <div class="point">
+        <span class="pt-ico">&#128274;</span>
+        <div>
+          <div class="pt-title">安全私密</div>
+          <div class="pt-sub">包装低调私密，会员尊享专属礼遇。</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- footer -->
+  <footer class="footer" id="footer">
+    <div class="foot-orn">&#10086; &nbsp; &#9874; &nbsp; &#10086;</div>
+    <div class="foot-brand">雪茄老友会</div>
+    <div class="foot-tag">自律 &nbsp;&middot;&nbsp; 传承 &nbsp;&middot;&nbsp; 忠诚</div>
+  </footer>
+
+</div>
+<script src="/assets/oldguard.js"></script>
+</body>
+</html>

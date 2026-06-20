@@ -1,0 +1,22 @@
+# Fly.io config — durable free hosting (persistent volume for the SQLite DB).
+# Deploy:  fly launch --no-deploy   (then)   fly volumes create cigar_data --size 1   (then)   fly deploy
+app = "xuejia-laoyouhui"
+primary_region = "sin"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8099"
+  DB_PATH = "/data/cigars.db"
+
+[http_service]
+  internal_port = 8099
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[mounts]]
+  source = "cigar_data"
+  destination = "/data"

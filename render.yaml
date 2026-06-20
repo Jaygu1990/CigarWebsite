@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: xuejia-laoyouhui
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: "22.16.0"
+      # Change these before/after first deploy to set your admin login:
+      - key: ADMIN_USER
+        sync: false
+      - key: ADMIN_PASS
+        sync: false

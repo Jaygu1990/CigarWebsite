@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>后台管理 - 秒茄</title>
+<link rel="icon" href="/favicon.ico"/>
+<link rel="stylesheet" href="/assets/app.css"/>
+</head>
+<body class="geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased bg-gray-50">
+<div class="min-h-screen">
+  <header class="bg-gray-900 text-white">
+    <div class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
+      <div class="flex items-center gap-4">
+        <span class="font-semibold">秒茄后台管理</span>
+        <nav class="flex items-center gap-1 text-sm">
+          <button data-tab="products" class="tabbtn px-3 py-1 rounded-md bg-white/15">产品</button>
+          <button data-tab="brands" class="tabbtn px-3 py-1 rounded-md hover:bg-white/10">品牌</button>
+        </nav>
+      </div>
+      <div class="flex items-center gap-3 text-sm">
+        <a href="/products.html" target="_blank" class="text-gray-300 hover:text-white">查看前台 ↗</a>
+        <span id="who" class="text-gray-400"></span>
+        <button id="logout" class="px-3 py-1 rounded-md bg-white/10 hover:bg-white/20">退出</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- PRODUCTS TAB -->
+  <main id="tab-products" class="max-w-6xl mx-auto px-4 py-6 grid grid-cols-1 md:grid-cols-5 gap-6">
+    <section class="md:col-span-2">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-lg font-semibold text-gray-900">产品 <span id="pcount" class="text-sm text-gray-400"></span></h2>
+        <button id="add-product" class="px-3 py-1.5 rounded-md bg-gray-900 text-white text-sm hover:bg-black">+ 新增产品</button>
+      </div>
+      <input id="psearch" class="border-input flex h-9 w-full rounded-md border bg-white px-3 mb-3 outline-none" placeholder="搜索产品 / 品牌…" style="font-size:14px"/>
+      <div id="products" class="space-y-2"></div>
+    </section>
+    <section class="md:col-span-3">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-lg font-semibold text-gray-900" id="ltitle">报价</h2>
+        <button id="add-listing" class="px-3 py-1.5 rounded-md bg-gray-900 text-white text-sm hover:bg-black hidden">+ 新增报价</button>
+      </div>
+      <div id="listings" class="space-y-2"><div class="text-gray-400 text-sm py-10 text-center">← 请选择左侧产品查看 / 管理报价</div></div>
+    </section>
+  </main>
+
+  <!-- BRANDS TAB -->
+  <main id="tab-brands" class="max-w-3xl mx-auto px-4 py-6 hidden">
+    <div class="flex items-center justify-between mb-3">
+      <h2 class="text-lg font-semibold text-gray-900">品牌 <span id="bcount" class="text-sm text-gray-400"></span></h2>
+      <button id="add-brand" class="px-3 py-1.5 rounded-md bg-gray-900 text-white text-sm hover:bg-black">+ 新增品牌</button>
+    </div>
+    <div id="brands" class="space-y-2"></div>
+  </main>
+</div>
+
+<!-- modal -->
+<div id="modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/50 p-4">
+  <div class="bg-white rounded-xl shadow-2xl w-full max-w-md max-h-[90vh] overflow-y-auto">
+    <div class="px-5 py-3 border-b flex items-center justify-between">
+      <h3 id="m-title" class="font-semibold text-gray-900"></h3>
+      <button id="m-close" class="text-gray-400 hover:text-gray-700">✕</button>
+    </div>
+    <form id="m-form" class="p-5 space-y-3"></form>
+  </div>
+</div>
+
+<script src="/assets/admin.js"></script>
+</body>
+</html>
