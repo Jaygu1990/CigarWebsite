@@ -1,0 +1,3506 @@
+[
+  {
+    "brand_img": "/images/brands/cohiba/logo.jpg",
+    "cigar_count": 57,
+    "id": 1,
+    "name": "Cohiba",
+    "name_cn": "\u9ad8\u5e0c\u9738",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/h_upmann/logo.jpg",
+    "cigar_count": 77,
+    "id": 2,
+    "name": "H. Upmann",
+    "name_cn": "\u4e4c\u666e\u66fc",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/hoyo_de_monterrey/logo.jpg",
+    "cigar_count": 73,
+    "id": 3,
+    "name": "Hoyo de Monterrey",
+    "name_cn": "\u597d\u53cb",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/montecristo/logo.jpg",
+    "cigar_count": 60,
+    "id": 4,
+    "name": "Montecristo",
+    "name_cn": "\u8499\u7279",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/partag\u00e1s/logo.jpg",
+    "cigar_count": 112,
+    "id": 5,
+    "name": "Partag\u00e1s",
+    "name_cn": "\u5e15\u7279\u52a0\u65af",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/romeo_y_julieta/logo.jpg",
+    "cigar_count": 94,
+    "id": 6,
+    "name": "Romeo y Julieta",
+    "name_cn": "\u7f57\u5bc6\u6b27\u4e0e\u6731\u4e3d\u53f6",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/bol\u00edvar/logo.jpg",
+    "cigar_count": 82,
+    "id": 7,
+    "name": "Bol\u00edvar",
+    "name_cn": "\u73bb\u5229\u74e6",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/punch/logo.jpg",
+    "cigar_count": 80,
+    "id": 8,
+    "name": "Punch",
+    "name_cn": "\u6f58\u8da3",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/quai_d'orsay/logo.jpg",
+    "cigar_count": 22,
+    "id": 9,
+    "name": "Quai d'Orsay",
+    "name_cn": "\u5e0c\u591a\u5c14\u8d5b",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/ram\u00f3n_allones/logo.jpg",
+    "cigar_count": 81,
+    "id": 10,
+    "name": "Ram\u00f3n Allones",
+    "name_cn": "\u96f7\u8499\u963f\u9686\u5c3c",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/trinidad/logo.jpg",
+    "cigar_count": 25,
+    "id": 11,
+    "name": "Trinidad",
+    "name_cn": "\u5343\u91cc\u8fbe",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/jos\u00e9_l_piedra/logo.jpg",
+    "cigar_count": 11,
+    "id": 12,
+    "name": "Jos\u00e9 L. Piedra",
+    "name_cn": "\u8377\u897f\u6bd4\u96c5\u8fbe",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/quintero/logo.jpg",
+    "cigar_count": 20,
+    "id": 13,
+    "name": "Quintero",
+    "name_cn": "\u91d1\u7279\u7f57",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/vegueros/logo.jpg",
+    "cigar_count": 11,
+    "id": 14,
+    "name": "Vegueros",
+    "name_cn": "\u5a01\u53e4\u6d1b",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/cuaba/logo.jpg",
+    "cigar_count": 17,
+    "id": 15,
+    "name": "Cuaba",
+    "name_cn": "\u5e93\u963f\u5df4",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/diplom\u00e1ticos/logo.jpg",
+    "cigar_count": 25,
+    "id": 16,
+    "name": "Diplom\u00e1ticos",
+    "name_cn": "\u5916\u4ea4\u5b98",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/el_rey_del_mundo/logo.jpg",
+    "cigar_count": 42,
+    "id": 17,
+    "name": "El Rey del Mundo",
+    "name_cn": "\u4e16\u754c\u4e4b\u738b",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/fonseca/logo.jpg",
+    "cigar_count": 8,
+    "id": 18,
+    "name": "Fonseca",
+    "name_cn": "\u4e30\u585e\u5361",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/juan_l\u00f3pez/logo.jpg",
+    "cigar_count": 39,
+    "id": 19,
+    "name": "Juan L\u00f3pez",
+    "name_cn": "\u80e1\u5b89\u4f69\u6d1b\u65af",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/la_flor_de_cano/logo.jpg",
+    "cigar_count": 22,
+    "id": 20,
+    "name": "La Flor de Cano",
+    "name_cn": "\u5361\u8bfa\u4e4b\u82b1",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/la_gloria_cubana/logo.jpg",
+    "cigar_count": 37,
+    "id": 21,
+    "name": "La Gloria Cubana",
+    "name_cn": "\u53e4\u5df4\u8363\u8000",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/por_larra\u00f1aga/logo.jpg",
+    "cigar_count": 49,
+    "id": 22,
+    "name": "Por Larra\u00f1aga",
+    "name_cn": "\u6ce2\u5c14\u62c9\u814a\u5c3c\u52a0",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/rafael_gonz\u00e1lez/logo.jpg",
+    "cigar_count": 18,
+    "id": 23,
+    "name": "Rafael Gonz\u00e1lez",
+    "name_cn": "\u62c9\u6590\u5c14",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/saint_luis_rey/logo.jpg",
+    "cigar_count": 22,
+    "id": 24,
+    "name": "Saint Luis Rey",
+    "name_cn": "\u5723\u8def\u6613\u65af\u96f7\u4f0a",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/san_crist\u00f3bal_de_la_habana/logo.jpg",
+    "cigar_count": 21,
+    "id": 25,
+    "name": "San Crist\u00f3bal de la Habana",
+    "name_cn": "\u5723\u514b\u91cc\u65af\u591a",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/sancho_panza/logo.jpg",
+    "cigar_count": 22,
+    "id": 26,
+    "name": "Sancho Panza",
+    "name_cn": "\u6851\u4e18\u6f58\u8428",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/vegas_robaina/logo.jpg",
+    "cigar_count": 18,
+    "id": 27,
+    "name": "Vegas Robaina",
+    "name_cn": "\u74e6\u683c\u65af\u9646\u73ed\u7eb3",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/belinda/logo.jpg",
+    "cigar_count": 11,
+    "id": 28,
+    "name": "Belinda",
+    "name_cn": "\u8d1d\u7433\u8fbe",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/guantanamera/logo.jpg",
+    "cigar_count": 7,
+    "id": 29,
+    "name": "Guantanamera",
+    "name_cn": "\u5173\u8fbe\u62c9\u7f8e\u62c9",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/small_cigars/logo.jpg",
+    "cigar_count": 38,
+    "id": 30,
+    "name": "Small Cigars",
+    "name_cn": "\u5c0f\u96ea\u8304",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/troya/logo.jpg",
+    "cigar_count": 4,
+    "id": 31,
+    "name": "Troya",
+    "name_cn": "\u7279\u6d1b\u4f0a",
+    "origin": "cuba"
+  },
+  {
+    "brand_img": "/images/brands/a__flores/a-flores_250.jpg",
+    "cigar_count": 39,
+    "id": 862,
+    "name": "A. Flores",
+    "name_cn": "A\u00b7\u5f17\u6d1b\u96f7\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/a_j__fernandez/aj-fernandez_250.jpeg",
+    "cigar_count": 86,
+    "id": 863,
+    "name": "A.J. Fernandez",
+    "name_cn": "AJ.\u8d39\u5c14\u5357\u5fb7\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/adv/adv_250.png",
+    "cigar_count": 36,
+    "id": 864,
+    "name": "ADV",
+    "name_cn": "\u5192\u9669\u5bb6",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/aganorsa_leaf/aganorsa-leaf_250.jpeg",
+    "cigar_count": 80,
+    "id": 865,
+    "name": "Aganorsa Leaf",
+    "name_cn": "\u7d2b\u6a80\u53f6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/aging_room/aging-room_250.jpg",
+    "cigar_count": 3,
+    "id": 866,
+    "name": "Aging Room",
+    "name_cn": "\u8001\u5316\u5c4b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/aladino/aladino_250.jpg",
+    "cigar_count": 49,
+    "id": 867,
+    "name": "Aladino",
+    "name_cn": "\u963f\u62c9\u8fea\u8bfa",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/alec_bradley/alec-bradley_250.jpeg",
+    "cigar_count": 100,
+    "id": 868,
+    "name": "Alec Bradley",
+    "name_cn": "\u4e9a\u5386\u514b\u5e03 \u62c9\u5fb7\u5229",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/alejandro_lopez/alejandro-lopez_250.jpg",
+    "cigar_count": 15,
+    "id": 869,
+    "name": "Alejandro Lopez",
+    "name_cn": "\u4e9a\u5386\u676d\u5fb7\u7f57\u00b7\u6d1b\u4f69\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/alfambra/alfambra_250.jpg",
+    "cigar_count": 31,
+    "id": 870,
+    "name": "Alfambra",
+    "name_cn": "\u57c3\u82ac\u5df4",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/aliados/aliados_250.png",
+    "cigar_count": 10,
+    "id": 871,
+    "name": "Aliados",
+    "name_cn": "\u76df\u53cb",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/alonso_menendez/alonso-menendez_250.jpg",
+    "cigar_count": 7,
+    "id": 872,
+    "name": "Alonso Menendez",
+    "name_cn": "\u963f\u9686\u7d22\u00b7\u6885\u5ae9\u5fb7\u65af",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/andr\u00e9/andre_250.jpg",
+    "cigar_count": 1,
+    "id": 873,
+    "name": "Andr\u00e9",
+    "name_cn": "\u5b89\u5fb7\u70c8",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/angel/angel_250.jpg",
+    "cigar_count": 3,
+    "id": 874,
+    "name": "Angel",
+    "name_cn": "\u5929\u4f7f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/ann-eks/ann-eks_250.jpg",
+    "cigar_count": 2,
+    "id": 875,
+    "name": "Ann-Eks",
+    "name_cn": "\u5b89-\u57c3\u514b\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/artista_cigars/artista-cigars_250.jpg",
+    "cigar_count": 41,
+    "id": 876,
+    "name": "Artista Cigars",
+    "name_cn": "\u827a\u672f\u5bb6\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/arturo_fuente/arturo-fuente_250.jpg",
+    "cigar_count": 211,
+    "id": 877,
+    "name": "Arturo Fuente",
+    "name_cn": "富恩特",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/ashton/ashton_250.png",
+    "cigar_count": 66,
+    "id": 878,
+    "name": "Ashton",
+    "name_cn": "\u963f\u4ec0\u987f",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/astoria_de_nicaragua/astoria-de-nicaragua_250.jpeg",
+    "cigar_count": 7,
+    "id": 879,
+    "name": "Astoria de Nicaragua",
+    "name_cn": "\u5c3c\u52a0\u62c9\u74dc\u963f\u65af\u6258\u91cc\u4e9a",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/asylum/asylum_250.jpg",
+    "cigar_count": 41,
+    "id": 880,
+    "name": "Asylum",
+    "name_cn": "\u5e87\u62a4\u6240",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/atat\u00fcrk/atatuerk_250.jpg",
+    "cigar_count": 1,
+    "id": 881,
+    "name": "Atat\u00fcrk",
+    "name_cn": "\u963f\u5854\u56fe\u5c14\u514b",
+    "origin": "Indonesia"
+  },
+  {
+    "brand_img": "/images/brands/august_schuster/august-schuster_250.jpeg",
+    "cigar_count": 8,
+    "id": 882,
+    "name": "August Schuster",
+    "name_cn": "\u5965\u53e4\u65af\u7279\u00b7\u8212\u65af\u7279",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/ave_maria/ave-maria_250.jpg",
+    "cigar_count": 1,
+    "id": 883,
+    "name": "Ave Maria",
+    "name_cn": "\u5723\u6bcd\u9882",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/avo/avo_250.jpg",
+    "cigar_count": 27,
+    "id": 884,
+    "name": "AVO",
+    "name_cn": "AVO",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/balboa/balboa_250.jpg",
+    "cigar_count": 1,
+    "id": 885,
+    "name": "Balboa",
+    "name_cn": "\u5df4\u5c14\u535a\u4e9a",
+    "origin": "Panama"
+  },
+  {
+    "brand_img": "/images/brands/balmoral/balmoral_250.jpg",
+    "cigar_count": 37,
+    "id": 886,
+    "name": "Balmoral",
+    "name_cn": "\u91d1\u5821\u5792",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/baron_ullmann/baron-ullmann_250.jpg",
+    "cigar_count": 5,
+    "id": 887,
+    "name": "Baron Ullmann",
+    "name_cn": "\u4e4c\u5c14\u66fc\u7537\u7235",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/barrio_viejo/barrio-viejo_250.jpg",
+    "cigar_count": 6,
+    "id": 888,
+    "name": "Barrio Viejo",
+    "name_cn": "\u8001\u8857\u533a",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/beast/beast_250.jpg",
+    "cigar_count": 1,
+    "id": 889,
+    "name": "Beast",
+    "name_cn": "\u91ce\u517d",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/bella_mundo/bella-mundo_250.jpg",
+    "cigar_count": 3,
+    "id": 890,
+    "name": "Bella Mundo",
+    "name_cn": "\u7f8e\u4e3d\u4e16\u754c",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/belmore/belmore_250.jpg",
+    "cigar_count": 15,
+    "id": 891,
+    "name": "Belmore",
+    "name_cn": "\u8d1d\u5c14\u83ab\u5c14",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/bentley/bentley_250.jpg",
+    "cigar_count": 15,
+    "id": 892,
+    "name": "Bentley",
+    "name_cn": "\u5bbe\u5229",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/berlincigarmen/berlincigarmen_250.jpg",
+    "cigar_count": 1,
+    "id": 893,
+    "name": "Berlincigarmen",
+    "name_cn": "\u67cf\u6797\u96ea\u8304\u4eba",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/black_label_trading_company/black-label-trading-company_250.jpg",
+    "cigar_count": 74,
+    "id": 894,
+    "name": "Black Label Trading Company",
+    "name_cn": "\u9ed1\u6807\u8d38\u6613\u516c\u53f8",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/black_tie/black-tie_250.jpg",
+    "cigar_count": 4,
+    "id": 895,
+    "name": "Black Tie",
+    "name_cn": "\u9ed1\u9886\u7ed3",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/black_works_studio/black-works-studio_250.jpg",
+    "cigar_count": 25,
+    "id": 896,
+    "name": "Black Works Studio",
+    "name_cn": "\u5e03\u83b1\u514b\u5de5\u4f5c\u5ba4",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/blackbird/blackbird_250.jpeg",
+    "cigar_count": 26,
+    "id": 897,
+    "name": "Blackbird",
+    "name_cn": "\u9ed1\u9e1f",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/blanco/blanco_250.jpg",
+    "cigar_count": 9,
+    "id": 898,
+    "name": "Blanco",
+    "name_cn": "\u5e03\u5170\u79d1",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/blanco_cigars/blanco-cigars_250.jpg",
+    "cigar_count": 9,
+    "id": 899,
+    "name": "Blanco Cigars",
+    "name_cn": "\u5e03\u5170\u79d1\u96ea\u8304",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/bock_y_ca_/bock-y-ca_250.jpg",
+    "cigar_count": 8,
+    "id": 900,
+    "name": "Bock y Ca.",
+    "name_cn": "\u535a\u514b\u516c\u53f8",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/bohekio/bohekio_250.jpg",
+    "cigar_count": 2,
+    "id": 901,
+    "name": "Bohekio",
+    "name_cn": "\u535a\u8d6b\u57fa\u5965",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/bongani/bongani_250.png",
+    "cigar_count": 4,
+    "id": 902,
+    "name": "Bongani",
+    "name_cn": "\u90a6\u52a0\u5c3c",
+    "origin": "Mozambique"
+  },
+  {
+    "brand_img": "/images/brands/bossner/bossner_250.jpg",
+    "cigar_count": 51,
+    "id": 903,
+    "name": "Bossner",
+    "name_cn": "\u535a\u65af\u7eb3",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/botucal/botucal_250.jpg",
+    "cigar_count": 1,
+    "id": 904,
+    "name": "Botucal",
+    "name_cn": "\u535a\u56fe\u5361\u5c14",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/bribon/bribon_250.jpeg",
+    "cigar_count": 5,
+    "id": 905,
+    "name": "Bribon",
+    "name_cn": "\u5e03\u91cc\u90a6",
+    "origin": "Colombia"
+  },
+  {
+    "brand_img": "/images/brands/brick_house/brick-house_250.jpg",
+    "cigar_count": 16,
+    "id": 906,
+    "name": "Brick House",
+    "name_cn": "\u7816\u5c4b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/brun_del_r\u00e9/brun-del-re_250.jpg",
+    "cigar_count": 30,
+    "id": 907,
+    "name": "Brun del R\u00e9",
+    "name_cn": "\u5e03\u4f26\u5fb7\u5c14\u96f7",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/bucanero/bucanero_250.jpeg",
+    "cigar_count": 1,
+    "id": 908,
+    "name": "Bucanero",
+    "name_cn": "\u5e03\u5361\u5185\u7f57",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/buena_vista/buena-vista_250.jpg",
+    "cigar_count": 17,
+    "id": 909,
+    "name": "Buena Vista",
+    "name_cn": "\u5e03\u57c3\u7eb3\u7ef4\u65af\u5854",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/bugatti/bugatti_250.jpeg",
+    "cigar_count": 16,
+    "id": 910,
+    "name": "Bugatti",
+    "name_cn": "\u5e03\u52a0\u8fea",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/cain/cain_250.jpg",
+    "cigar_count": 6,
+    "id": 911,
+    "name": "Cain",
+    "name_cn": "\u8be5\u9690",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/caldwell/caldwell_250.jpg",
+    "cigar_count": 73,
+    "id": 912,
+    "name": "Caldwell",
+    "name_cn": "\u8003\u5fb7\u5a01\u5c14",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/camacho/camacho_250.jpg",
+    "cigar_count": 30,
+    "id": 913,
+    "name": "Camacho",
+    "name_cn": "\u5361\u9a6c\u4e54",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/campo_verde/campo-verde_250.jpg",
+    "cigar_count": 1,
+    "id": 914,
+    "name": "Campo Verde",
+    "name_cn": "\u7eff\u8272\u7530\u91ce",
+    "origin": "Panama"
+  },
+  {
+    "brand_img": "/images/brands/canaritos/canaritos_250.jpg",
+    "cigar_count": 2,
+    "id": 915,
+    "name": "Canaritos",
+    "name_cn": "\u5361\u7eb3\u91cc\u6258\u65af",
+    "origin": "Spain"
+  },
+  {
+    "brand_img": "/images/brands/candlelight/candlelight_250.jpg",
+    "cigar_count": 8,
+    "id": 916,
+    "name": "Candlelight",
+    "name_cn": "\u70db\u5149",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/canned_heat/canned-heat_250.jpg",
+    "cigar_count": 2,
+    "id": 917,
+    "name": "Canned Heat",
+    "name_cn": "\u7f50\u88c5\u70ed\u91cf",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/cao/cao_250.jpg",
+    "cigar_count": 51,
+    "id": 918,
+    "name": "CAO",
+    "name_cn": "CAO",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/caoba/caoba_250.jpg",
+    "cigar_count": 7,
+    "id": 919,
+    "name": "Caoba",
+    "name_cn": "\u6843\u82b1\u5fc3\u6728",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/capadura/capadura_250.jpg",
+    "cigar_count": 10,
+    "id": 920,
+    "name": "Capadura",
+    "name_cn": "\u5361\u5e15\u675c\u62c9",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/capitol/capitol_250.jpg",
+    "cigar_count": 4,
+    "id": 921,
+    "name": "Capitol",
+    "name_cn": "\u5927\u90fd\u4f1a",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/carlos___maria/carlos--maria_250.jpeg",
+    "cigar_count": 5,
+    "id": 922,
+    "name": "Carlos & Maria",
+    "name_cn": "\u5361\u6d1b\u65af\u4e0e\u739b\u4e3d\u4e9a",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/carlos_andr\u00e9/carlos-andre_250.jpg",
+    "cigar_count": 18,
+    "id": 923,
+    "name": "Carlos Andr\u00e9",
+    "name_cn": "\u5361\u6d1b\u65af\u00b7\u5b89\u5fb7\u70c8",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/carlos_torano/carlos-torano_250.jpeg",
+    "cigar_count": 16,
+    "id": 924,
+    "name": "Carlos Torano",
+    "name_cn": "\u5361\u6d1b\u65af\u00b7\u6258\u62c9\u5c3c\u5965",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/casa_1910/casa-1910_250.jpg",
+    "cigar_count": 8,
+    "id": 925,
+    "name": "Casa 1910",
+    "name_cn": "1910\u4e4b\u5bb6",
+    "origin": "Mexico"
+  },
+  {
+    "brand_img": "/images/brands/casa_culinaria/casa-culinaria_250.jpg",
+    "cigar_count": 12,
+    "id": 926,
+    "name": "Casa Culinaria",
+    "name_cn": "\u70f9\u996a\u4e4b\u5bb6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/casa_de_alegria/casa-de-alegria_250.jpg",
+    "cigar_count": 19,
+    "id": 927,
+    "name": "Casa de Alegria",
+    "name_cn": "\u6b22\u4e50\u4e4b\u5bb6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/casa_de_garcia/casa-de-garcia_250.jpg",
+    "cigar_count": 9,
+    "id": 928,
+    "name": "Casa de Garcia",
+    "name_cn": "\u5361\u8428 \u5fb7\u52a0\u897f\u4e9a",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/casa_de_nicaragua/casa-de-nicaragua_250.jpg",
+    "cigar_count": 5,
+    "id": 929,
+    "name": "Casa de Nicaragua",
+    "name_cn": "\u5c3c\u52a0\u62c9\u74dc\u4e4b\u5bb6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/casa_de_torres/casa-de-torres_250.jpg",
+    "cigar_count": 26,
+    "id": 930,
+    "name": "Casa de Torres",
+    "name_cn": "\u6258\u96f7\u65af\u4e4b\u5bb6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/casa_magna/casa-magna_250.jpg",
+    "cigar_count": 8,
+    "id": 931,
+    "name": "Casa Magna",
+    "name_cn": "\u9a6c\u683c\u7eb3\u4e4b\u5bb6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/casa_turrent/casa-turrent_250.jpg",
+    "cigar_count": 23,
+    "id": 932,
+    "name": "Casa Turrent",
+    "name_cn": "\u5361\u8428 \u56fe\u4f26",
+    "origin": "Mexico"
+  },
+  {
+    "brand_img": "/images/brands/casagranda/casagranda_250.jpg",
+    "cigar_count": 1,
+    "id": 933,
+    "name": "Casagranda",
+    "name_cn": "\u5361\u8428\u683c\u5170\u8fbe",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/casdagli/casdagli_250.jpg",
+    "cigar_count": 46,
+    "id": 934,
+    "name": "Casdagli",
+    "name_cn": "\u5361\u65af\u8fbe\u683c\u5229",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/cavalier_gen\u00e8ve/cavalier-geneve_250.jpg",
+    "cigar_count": 37,
+    "id": 935,
+    "name": "Cavalier Gen\u00e8ve",
+    "name_cn": "\u65e5\u5185\u74e6\u9a91\u58eb",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/centaur_cigars/centaur-cigars_250.jpg",
+    "cigar_count": 7,
+    "id": 936,
+    "name": "Centaur Cigars",
+    "name_cn": "\u534a\u4eba\u9a6c\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/centenario/centenario_250.jpg",
+    "cigar_count": 3,
+    "id": 937,
+    "name": "Centenario",
+    "name_cn": "\u767e\u5e74\u7eaa\u5ff5",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/charatan/charatan_250.jpg",
+    "cigar_count": 1,
+    "id": 938,
+    "name": "Charatan",
+    "name_cn": "\u67e5\u62c9\u5766",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/chateau_diadem/chateau-diadem_250.jpg",
+    "cigar_count": 8,
+    "id": 939,
+    "name": "Chateau Diadem",
+    "name_cn": "\u57ce\u5821\u7687\u51a0",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/chinchalero/chinchalero_250.jpg",
+    "cigar_count": 13,
+    "id": 940,
+    "name": "Chinchalero",
+    "name_cn": "\u94a6\u67e5\u83b1\u7f57",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/chone/chone_250.jpg",
+    "cigar_count": 4,
+    "id": 941,
+    "name": "Chone",
+    "name_cn": "\u4e54\u5185",
+    "origin": "Indonesia"
+  },
+  {
+    "brand_img": "/images/brands/christo/christo_250.jpg",
+    "cigar_count": 9,
+    "id": 942,
+    "name": "Christo",
+    "name_cn": "\u514b\u91cc\u65af\u6258",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/cibao/cibao_250.jpeg",
+    "cigar_count": 3,
+    "id": 943,
+    "name": "Cibao",
+    "name_cn": "\u9521\u74e6\u5965",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/cigar_seed_company/cigar-seed-company_250.jpg",
+    "cigar_count": 4,
+    "id": 944,
+    "name": "Cigar Seed Company",
+    "name_cn": "\u96ea\u8304\u79cd\u5b50\u516c\u53f8",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/cigarkings/cigarkings_250.png",
+    "cigar_count": 20,
+    "id": 945,
+    "name": "Cigarkings",
+    "name_cn": "\u96ea\u8304\u4e4b\u738b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/cigarworld/cigarworld_250.jpg",
+    "cigar_count": 20,
+    "id": 946,
+    "name": "CIGARWORLD",
+    "name_cn": "\u96ea\u8304\u4e16\u754c",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/cle/cle_250.jpg",
+    "cigar_count": 29,
+    "id": 947,
+    "name": "CLE",
+    "name_cn": "CLE\u96ea\u8304",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/colon/colon_250.jpg",
+    "cigar_count": 5,
+    "id": 948,
+    "name": "Colon",
+    "name_cn": "\u79d1\u9686",
+    "origin": "Panama"
+  },
+  {
+    "brand_img": "/images/brands/condega/condega_250.jpg",
+    "cigar_count": 13,
+    "id": 949,
+    "name": "Condega",
+    "name_cn": "\u5b54\u5fb7\u52a0",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/confidenciaal/confidenciaal_250.jpg",
+    "cigar_count": 7,
+    "id": 950,
+    "name": "Confidenciaal",
+    "name_cn": "\u79d8\u5bc6",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/cornelius___anthony/cornelius-amp--anthony_250.jpg",
+    "cigar_count": 10,
+    "id": 951,
+    "name": "Cornelius & Anthony",
+    "name_cn": "\u79d1\u5c3c\u5229\u5384\u65af\u4e0e\u5b89\u4e1c\u5c3c",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/corrida/corrida_250.jpg",
+    "cigar_count": 13,
+    "id": 952,
+    "name": "Corrida",
+    "name_cn": "\u79d1\u91cc\u8fbe",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/costa/costa_250.jpeg",
+    "cigar_count": 2,
+    "id": 953,
+    "name": "Costa",
+    "name_cn": "\u79d1\u65af\u5854",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/crowned_heads/crowned-heads_250.png",
+    "cigar_count": 83,
+    "id": 954,
+    "name": "Crowned Heads",
+    "name_cn": "\u5934\u51a0",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/cruzero/cruzero_250.jpg",
+    "cigar_count": 4,
+    "id": 955,
+    "name": "Cruzero",
+    "name_cn": "\u514b\u9c81\u6cfd\u7f57",
+    "origin": "Panama"
+  },
+  {
+    "brand_img": "/images/brands/cuervo_y_sobrinos/cuervo-y-sobrinos_250.jpg",
+    "cigar_count": 5,
+    "id": 956,
+    "name": "Cuervo y Sobrinos",
+    "name_cn": "\u594e\u5c14\u6c83\u4e0e\u7d22\u5e03\u91cc\u8bfa\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/culture/culture_250.jpeg",
+    "cigar_count": 15,
+    "id": 957,
+    "name": "Culture",
+    "name_cn": "\u6587\u5316",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/cumpay/cumpay_250.jpg",
+    "cigar_count": 11,
+    "id": 958,
+    "name": "Cumpay",
+    "name_cn": "\u6606\u4f69",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/cusano/cusano_250.jpg",
+    "cigar_count": 12,
+    "id": 959,
+    "name": "Cusano",
+    "name_cn": "\u5e93\u8428\u8bfa",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/cuvee/cuvee_250.jpg",
+    "cigar_count": 1,
+    "id": 960,
+    "name": "Cuvee",
+    "name_cn": "\u7279\u917f",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dag/dag_250.jpg",
+    "cigar_count": 1,
+    "id": 961,
+    "name": "DAG",
+    "name_cn": "DAG\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dalay/dalay_250.jpg",
+    "cigar_count": 45,
+    "id": 962,
+    "name": "Dalay",
+    "name_cn": "\u8fbe\u83b1",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/daniel_marshall/daniel-marshall_250.jpg",
+    "cigar_count": 8,
+    "id": 963,
+    "name": "Daniel Marshall",
+    "name_cn": "\u4e39\u5c3c\u5c14\u00b7\u9a6c\u6b47\u5c14",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/dannemann/dannemann_250.jpg",
+    "cigar_count": 2,
+    "id": 964,
+    "name": "Dannemann",
+    "name_cn": "\u4e39\u7eb3\u66fc",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/dapper/dapper_250.jpg",
+    "cigar_count": 43,
+    "id": 965,
+    "name": "Dapper",
+    "name_cn": "\u8fbe\u4f69\u5c14",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/davidoff/davidoff_250.jpg",
+    "cigar_count": 82,
+    "id": 966,
+    "name": "Davidoff",
+    "name_cn": "\u5927\u536b\u675c\u592b",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dbl/dbl_250.jpg",
+    "cigar_count": 37,
+    "id": 967,
+    "name": "DBL",
+    "name_cn": "DBL\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/de_leon/de-leon_250.jpg",
+    "cigar_count": 17,
+    "id": 968,
+    "name": "De Leon",
+    "name_cn": "\u5fb7\u83b1\u6602",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/debonaire/debonaire_250.jpg",
+    "cigar_count": 14,
+    "id": 969,
+    "name": "Debonaire",
+    "name_cn": "\u98ce\u5ea6\u7fe9\u7fe9",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/despot/despot_250.jpg",
+    "cigar_count": 6,
+    "id": 970,
+    "name": "Despot",
+    "name_cn": "\u66b4\u541b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/diamond_crown/diamond-crown_250.jpg",
+    "cigar_count": 23,
+    "id": 971,
+    "name": "Diamond Crown",
+    "name_cn": "\u94bb\u51a0",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/diesel/diesel_250.jpeg",
+    "cigar_count": 5,
+    "id": 972,
+    "name": "Diesel",
+    "name_cn": "\u67f4\u6cb9",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/domaine_de_lavalette/domaine-de-lavalette_250.jpg",
+    "cigar_count": 28,
+    "id": 973,
+    "name": "Domaine de Lavalette",
+    "name_cn": "\u62c9\u74e6\u83b1\u7279\u5e84\u56ed",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/domenico/domenico_250.jpg",
+    "cigar_count": 13,
+    "id": 974,
+    "name": "Domenico",
+    "name_cn": "\u591a\u6885\u5c3c\u79d1",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dominican_cigar_selection/dominican-cigar-selection_250.jpg",
+    "cigar_count": 3,
+    "id": 975,
+    "name": "Dominican Cigar Selection",
+    "name_cn": "\u591a\u7c73\u5c3c\u52a0\u96ea\u8304\u7cbe\u9009",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dominican_estates/dominican-estates_250.jpg",
+    "cigar_count": 7,
+    "id": 976,
+    "name": "Dominican Estates",
+    "name_cn": "\u591a\u7c73\u5c3c\u52a0\u5e84\u56ed",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dominican_santiago_selection/dominican-santiago-selection_250.jpg",
+    "cigar_count": 10,
+    "id": 977,
+    "name": "Dominican Santiago Selection",
+    "name_cn": "\u591a\u7c73\u5c3c\u52a0\u5723\u5730\u4e9a\u54e5\u7cbe\u9009",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dominico/dominico_250.jpg",
+    "cigar_count": 5,
+    "id": 978,
+    "name": "Dominico",
+    "name_cn": "\u591a\u6885\u5c3c\u79d1",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dominus/dominus_250.jpg",
+    "cigar_count": 7,
+    "id": 979,
+    "name": "Dominus",
+    "name_cn": "\u591a\u7c73\u7eb3\u65af",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/don_antonio/don-antonio_250.jpg",
+    "cigar_count": 2,
+    "id": 980,
+    "name": "Don Antonio",
+    "name_cn": "\u5510\u5b89\u4e1c\u5c3c\u5965",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/don_diego/don-diego_250.jpg",
+    "cigar_count": 9,
+    "id": 981,
+    "name": "Don Diego",
+    "name_cn": "\u5f53 \u8fea\u4e9a\u54e5",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/don_duarte/don-duarte_250.jpeg",
+    "cigar_count": 13,
+    "id": 982,
+    "name": "Don Duarte",
+    "name_cn": "\u5510\u675c\u963f\u5c14\u7279",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/don_fidel/don-fidel_250.jpg",
+    "cigar_count": 4,
+    "id": 983,
+    "name": "Don Fidel",
+    "name_cn": "\u5510\u83f2\u5fb7\u5c14",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/don_jose_correa/don-jose-correa_250.jpg",
+    "cigar_count": 6,
+    "id": 984,
+    "name": "Don Jose Correa",
+    "name_cn": "\u5510\u4f55\u585e\u00b7\u79d1\u96f7\u4e9a",
+    "origin": "Colombia"
+  },
+  {
+    "brand_img": "/images/brands/don_julio/don-julio_250.jpeg",
+    "cigar_count": 7,
+    "id": 985,
+    "name": "Don Julio",
+    "name_cn": "\u5510 \u80e1\u91cc\u5965",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/don_pepin/don-pepin_250.jpeg",
+    "cigar_count": 37,
+    "id": 986,
+    "name": "Don Pepin",
+    "name_cn": "\u5510 \u4f69\u5e73",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/don_stefano/don-stefano_250.jpg",
+    "cigar_count": 15,
+    "id": 987,
+    "name": "Don Stefano",
+    "name_cn": "\u5510\u65af\u7279\u51e1\u8bfa",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/don_tomas/don-tomas_250.jpg",
+    "cigar_count": 11,
+    "id": 988,
+    "name": "Don Tomas",
+    "name_cn": "\u5510 \u6258\u9a6c\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/don_zuarin/don-zuarin_250.jpg",
+    "cigar_count": 10,
+    "id": 989,
+    "name": "Don Zuarin",
+    "name_cn": "\u5510\u7956\u963f\u6797",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/dona_flor/dona-flor_250.jpg",
+    "cigar_count": 10,
+    "id": 990,
+    "name": "Dona Flor",
+    "name_cn": "\u591a\u5a1c\u5f17\u6d1b\u5c14",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/dos_jotas/dos-jotas_250.jpg",
+    "cigar_count": 4,
+    "id": 991,
+    "name": "Dos Jotas",
+    "name_cn": "\u53ccJ",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/dos_santos/dos-santos_250.jpeg",
+    "cigar_count": 26,
+    "id": 992,
+    "name": "Dos Santos",
+    "name_cn": "\u6851\u6258\u65af\u53cc\u96c4",
+    "origin": "Spain"
+  },
+  {
+    "brand_img": "/images/brands/drew_estate/drew-estate_250.jpg",
+    "cigar_count": 87,
+    "id": 993,
+    "name": "Drew Estate",
+    "name_cn": "\u5fb7\u9c81\u5e84\u56ed",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/dunbarton/dunbarton_250.jpg",
+    "cigar_count": 59,
+    "id": 994,
+    "name": "Dunbarton",
+    "name_cn": "\u9093\u5df4\u987f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/eiroa/eiroa_250.jpg",
+    "cigar_count": 20,
+    "id": 995,
+    "name": "Eiroa",
+    "name_cn": "\u827e\u7f57\u4e9a",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/el_baton/el-baton_250.jpg",
+    "cigar_count": 4,
+    "id": 996,
+    "name": "El Baton",
+    "name_cn": "\u57c3\u5c14\u5df4\u987f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/el_copey/el-copey_250.jpg",
+    "cigar_count": 6,
+    "id": 997,
+    "name": "El Copey",
+    "name_cn": "\u57c3\u5c14\u79d1\u4f69",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/el_galan/el-galan_250.png",
+    "cigar_count": 9,
+    "id": 998,
+    "name": "El Galan",
+    "name_cn": "\u57c3\u5c14\u52a0\u5170",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/el_gaucho/el-gaucho_250.jpeg",
+    "cigar_count": 4,
+    "id": 999,
+    "name": "El Gaucho",
+    "name_cn": "\u57c3\u5c14\u9ad8\u4e54",
+    "origin": "Indonesia"
+  },
+  {
+    "brand_img": "/images/brands/el_septimo/el-septimo_250.jpg",
+    "cigar_count": 50,
+    "id": 1000,
+    "name": "El Septimo",
+    "name_cn": "\u7b2c\u4e03\u5929",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/el_viejo_continente/el-viejo-continente_250.jpg",
+    "cigar_count": 33,
+    "id": 1001,
+    "name": "El Viejo Continente",
+    "name_cn": "\u65e7\u5927\u9646",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/eladio_diaz/eladio-diaz_250.jpeg",
+    "cigar_count": 4,
+    "id": 1002,
+    "name": "Eladio Diaz",
+    "name_cn": "\u57c3\u62c9\u8fea\u5965\u00b7\u8fea\u4e9a\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/epc/epc_250.jpg",
+    "cigar_count": 48,
+    "id": 1003,
+    "name": "EPC",
+    "name_cn": "EPC\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/epic/epic_250.jpg",
+    "cigar_count": 17,
+    "id": 1004,
+    "name": "Epic",
+    "name_cn": "\u53f2\u8bd7",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/epicure/epicure_250.jpg",
+    "cigar_count": 1,
+    "id": 1005,
+    "name": "Epicure",
+    "name_cn": "\u4eab\u4e50\u4e3b\u4e49\u8005",
+    "origin": "Ecuador"
+  },
+  {
+    "brand_img": "/images/brands/erez/erez_250.png",
+    "cigar_count": 2,
+    "id": 1006,
+    "name": "Erez",
+    "name_cn": "\u57c3\u96f7\u5179",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/escarabin/escarabin_250.jpeg",
+    "cigar_count": 1,
+    "id": 1007,
+    "name": "Escarabin",
+    "name_cn": "\u57c3\u65af\u5361\u62c9\u5bbe",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/esteban_carreras/esteban-carreras_250.jpg",
+    "cigar_count": 13,
+    "id": 1008,
+    "name": "Esteban Carreras",
+    "name_cn": "\u57c3\u65af\u7279\u4e07\u00b7\u5361\u96f7\u62c9\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/factory_overrun/factory-overrun_250.jpg",
+    "cigar_count": 4,
+    "id": 1009,
+    "name": "Factory Overrun",
+    "name_cn": "\u5de5\u5382\u8fc7\u5269",
+    "origin": "Mexico"
+  },
+  {
+    "brand_img": "/images/brands/ferruh_karakasli/ferruh-karakasli_250.jpg",
+    "cigar_count": 2,
+    "id": 1010,
+    "name": "Ferruh Karakasli",
+    "name_cn": "\u8d39\u9c81\u00b7\u5361\u62c9\u5361\u65af\u5229",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/final_8/final-8_250.jpg",
+    "cigar_count": 3,
+    "id": 1011,
+    "name": "Final 8",
+    "name_cn": "\u6700\u7ec8\u516b\u5f3a",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/flavoroute/flavoroute_250.jpeg",
+    "cigar_count": 1,
+    "id": 1012,
+    "name": "Flavoroute",
+    "name_cn": "\u98ce\u5473\u4e4b\u8def",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/flor_de_copan/flor-de-copan_250.jpg",
+    "cigar_count": 23,
+    "id": 1013,
+    "name": "Flor de Copan",
+    "name_cn": "\u79d1\u6f58\u4e4b\u82b1",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/flor_de_d_crossier/flor-de-dcrossier_250.jpg",
+    "cigar_count": 5,
+    "id": 1014,
+    "name": "Flor de D'Crossier",
+    "name_cn": "\u5f17\u6d1b\u5c14\u5fb7\u514b\u7f57\u897f\u8036",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/flor_de_filipinas/flor-de-filipinas_250.jpg",
+    "cigar_count": 2,
+    "id": 1015,
+    "name": "Flor de Filipinas",
+    "name_cn": "\u83f2\u5f8b\u5bbe\u4e4b\u82b1",
+    "origin": "Philippines"
+  },
+  {
+    "brand_img": "/images/brands/flor_de_selva/flor-de-selva_250.jpg",
+    "cigar_count": 33,
+    "id": 1016,
+    "name": "Flor de Selva",
+    "name_cn": "\u585e\u5c14\u74e6\u4e4b\u82b1",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/flor_del_sol/flor-del-sol_250.jpg",
+    "cigar_count": 2,
+    "id": 1017,
+    "name": "Flor del Sol",
+    "name_cn": "\u592a\u9633\u82b1",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/flor_real/flor-real_250.jpg",
+    "cigar_count": 1,
+    "id": 1018,
+    "name": "Flor Real",
+    "name_cn": "\u7687\u5bb6\u4e4b\u82b1",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/flores_y_rodriguez/flores-y-rodriguez_250.jpg",
+    "cigar_count": 10,
+    "id": 1019,
+    "name": "Flores y Rodriguez",
+    "name_cn": "\u5f17\u6d1b\u96f7\u65af\u4e0e\u7f57\u5fb7\u91cc\u683c\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/foundation_cigars/foundation-cigars_250.jpg",
+    "cigar_count": 25,
+    "id": 1020,
+    "name": "Foundation Cigars",
+    "name_cn": "\u57fa\u7840\u96ea\u8304",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/fratello/fratello_250.jpg",
+    "cigar_count": 43,
+    "id": 1021,
+    "name": "Fratello",
+    "name_cn": "\u5144\u5f1f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/freud/freud_250.jpg",
+    "cigar_count": 7,
+    "id": 1022,
+    "name": "Freud",
+    "name_cn": "\u5f17\u6d1b\u4f0a\u5fb7",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/f\u00fcrst_bismarck/fuerst-bismarck_250.jpg",
+    "cigar_count": 2,
+    "id": 1023,
+    "name": "F\u00fcrst Bismarck",
+    "name_cn": "\u4ffe\u65af\u9ea6\u516c\u7235",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/g__de_graaff/g-de-graaff_250.jpg",
+    "cigar_count": 5,
+    "id": 1024,
+    "name": "G. De Graaff",
+    "name_cn": "G\u00b7\u5fb7\u683c\u62c9\u592b",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/german_engineered/german-engineered_250.jpg",
+    "cigar_count": 6,
+    "id": 1025,
+    "name": "German Engineered",
+    "name_cn": "\u5fb7\u56fd\u5de5\u7a0b",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/gilbert_de_montsalvat/gilbert-de-montsalvat_250.jpg",
+    "cigar_count": 22,
+    "id": 1026,
+    "name": "Gilbert de Montsalvat",
+    "name_cn": "\u5409\u5c14\u4f2f\u7279\u00b7\u5fb7\u8499\u8428\u5c14\u74e6\u7279",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/god_of_fire/god-of-fire_250.jpg",
+    "cigar_count": 27,
+    "id": 1027,
+    "name": "God of Fire",
+    "name_cn": "\u706b\u795e",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/gran_ligero/gran-ligero_250.jpg",
+    "cigar_count": 4,
+    "id": 1028,
+    "name": "Gran Ligero",
+    "name_cn": "\u683c\u5170\u5229\u683c\u7f57",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/griffin_s/griffins_250.jpg",
+    "cigar_count": 17,
+    "id": 1029,
+    "name": "Griffin's",
+    "name_cn": "\u683c\u91cc\u82ac",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/guillermo_rico/guillermo-rico_250.jpg",
+    "cigar_count": 44,
+    "id": 1030,
+    "name": "Guillermo Rico",
+    "name_cn": "\u5409\u5217\u5c14\u83ab\u00b7\u91cc\u79d1",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/gurkha/gurkha_250.jpeg",
+    "cigar_count": 142,
+    "id": 1031,
+    "name": "Gurkha",
+    "name_cn": "\u5ed3\u5c14\u5580",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/guzman/guzman_250.jpg",
+    "cigar_count": 5,
+    "id": 1032,
+    "name": "Guzman",
+    "name_cn": "\u53e4\u5179\u66fc",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/handelsgold/handelsgold_250.jpg",
+    "cigar_count": 2,
+    "id": 1033,
+    "name": "Handelsgold",
+    "name_cn": "\u5546\u4e1a\u9ec4\u91d1",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/heimat_zigarre/heimat-zigarre_250.jpg",
+    "cigar_count": 2,
+    "id": 1034,
+    "name": "Heimat Zigarre",
+    "name_cn": "\u6545\u4e61\u96ea\u8304",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/helvada/helvada_250.jpeg",
+    "cigar_count": 25,
+    "id": 1035,
+    "name": "Helvada",
+    "name_cn": "\u8d6b\u5c14\u74e6\u8fbe",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/hemmys/hemmys_250.jpg",
+    "cigar_count": 20,
+    "id": 1036,
+    "name": "Hemmys",
+    "name_cn": "\u8d6b\u7c73\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/henk/henk_250.jpg",
+    "cigar_count": 11,
+    "id": 1037,
+    "name": "Henk",
+    "name_cn": "\u6c49\u514b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/henry_clay/henry-clay_250.jpg",
+    "cigar_count": 6,
+    "id": 1038,
+    "name": "Henry Clay",
+    "name_cn": "\u4ea8\u5229\u00b7\u514b\u96f7",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/hernandez___ruiz/hernandez--ruiz_250.jpeg",
+    "cigar_count": 1,
+    "id": 1039,
+    "name": "Hernandez & Ruiz",
+    "name_cn": "\u57c3\u5c14\u5357\u5fb7\u65af\u4e0e\u9c81\u4f0a\u65af",
+    "origin": "Panama"
+  },
+  {
+    "brand_img": "/images/brands/herr_lehmann/herr-lehmann_250.jpg",
+    "cigar_count": 6,
+    "id": 1040,
+    "name": "Herr Lehmann",
+    "name_cn": "\u83b1\u66fc\u5148\u751f",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/hiram___solomon/hiram-amp--solomon_250.jpg",
+    "cigar_count": 14,
+    "id": 1041,
+    "name": "Hiram & Solomon",
+    "name_cn": "\u5e0c\u62c9\u59c6 \u6240\u7f57\u95e8",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/horacio/horacio_250.jpg",
+    "cigar_count": 42,
+    "id": 1042,
+    "name": "Horacio",
+    "name_cn": "\u5965\u62c9\u897f\u5965",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/house_of_nicaragua/house-of-nicaragua_250.jpg",
+    "cigar_count": 5,
+    "id": 1043,
+    "name": "House of Nicaragua",
+    "name_cn": "\u5c3c\u52a0\u62c9\u74dc\u4e4b\u5bb6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/hr/hr_250.png",
+    "cigar_count": 5,
+    "id": 1044,
+    "name": "HR",
+    "name_cn": "HR\u96ea\u8304",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/ibis/ibis_250.jpeg",
+    "cigar_count": 17,
+    "id": 1045,
+    "name": "Ibis",
+    "name_cn": "\u4f0a\u6bd4\u65af",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/il_padrino/il-padrino_250.jpg",
+    "cigar_count": 1,
+    "id": 1046,
+    "name": "Il Padrino",
+    "name_cn": "\u6559\u7236",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/inca/inca_250.jpg",
+    "cigar_count": 3,
+    "id": 1047,
+    "name": "Inca",
+    "name_cn": "\u5370\u52a0",
+    "origin": "Peru"
+  },
+  {
+    "brand_img": "/images/brands/independence/independence_250.jpg",
+    "cigar_count": 3,
+    "id": 1048,
+    "name": "Independence",
+    "name_cn": "\u72ec\u7acb",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/isthmus/isthmus_250.jpg",
+    "cigar_count": 2,
+    "id": 1049,
+    "name": "Isthmus",
+    "name_cn": "\u5730\u5ce1",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/jamm/jamm_250.jpg",
+    "cigar_count": 11,
+    "id": 1050,
+    "name": "Jamm",
+    "name_cn": "\u8d3e\u59c6",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/jas_sum_kral/jas-sum-kral_250.jpg",
+    "cigar_count": 2,
+    "id": 1051,
+    "name": "Jas Sum Kral",
+    "name_cn": "\u8d3e\u65af\u00b7\u8428\u59c6\u00b7\u514b\u62c9\u5c14",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/jesus_fuego/jesus-fuego_250.jpg",
+    "cigar_count": 1,
+    "id": 1052,
+    "name": "Jesus Fuego",
+    "name_cn": "\u8036\u7a23\u00b7\u5bcc\u57c3\u6208",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/joya_de_la_romana/joya-de-la-romana_250.jpg",
+    "cigar_count": 4,
+    "id": 1053,
+    "name": "Joya de la Romana",
+    "name_cn": "\u7f57\u9a6c\u7eb3\u4e4b\u559c",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/joya_de_nicaragua/joya-de-nicaragua_250.jpg",
+    "cigar_count": 57,
+    "id": 1054,
+    "name": "Joya de Nicaragua",
+    "name_cn": "\u5c3c\u74dc\u62c9\u52a0\u73cd\u5b9d",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/juarez/juarez_250.jpeg",
+    "cigar_count": 3,
+    "id": 1055,
+    "name": "Juarez",
+    "name_cn": "\u534e\u96f7\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/kafie_1901/kafie-1901_250.jpeg",
+    "cigar_count": 8,
+    "id": 1056,
+    "name": "Kafie 1901",
+    "name_cn": "\u5361\u83f21901",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/kaneda/kaneda_250.jpg",
+    "cigar_count": 18,
+    "id": 1057,
+    "name": "Kaneda",
+    "name_cn": "\u91d1\u7530",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/karen_berger/karen-berger_250.jpg",
+    "cigar_count": 16,
+    "id": 1058,
+    "name": "Karen Berger",
+    "name_cn": "\u5361\u4f26\u00b7\u4f2f\u6770",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/kinix/kinix_250.jpg",
+    "cigar_count": 4,
+    "id": 1059,
+    "name": "Kinix",
+    "name_cn": "\u57fa\u5c3c\u514b\u65af",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/knut/knut-_250.jpg",
+    "cigar_count": 1,
+    "id": 1060,
+    "name": "Knut",
+    "name_cn": "\u514b\u52aa\u7279",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/kolumbus/kolumbus_250.jpg",
+    "cigar_count": 1,
+    "id": 1061,
+    "name": "Kolumbus",
+    "name_cn": "\u54e5\u4f26\u5e03",
+    "origin": "Spain"
+  },
+  {
+    "brand_img": "/images/brands/kristoff/kristoff_250.jpg",
+    "cigar_count": 80,
+    "id": 1062,
+    "name": "Kristoff",
+    "name_cn": "\u514b\u91cc\u65af\u6258\u5f17",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/kuuts/kuuts_250.png",
+    "cigar_count": 1,
+    "id": 1063,
+    "name": "Kuuts",
+    "name_cn": "\u5e93\u8328",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/l_atelier/latelier_250.jpg",
+    "cigar_count": 22,
+    "id": 1064,
+    "name": "L'Atelier",
+    "name_cn": "\u62ff\u94c1\u5229",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_aroma_del_caribe/la-aroma-del-caribe_250.jpeg",
+    "cigar_count": 36,
+    "id": 1065,
+    "name": "La Aroma del Caribe",
+    "name_cn": "\u52a0\u52d2\u6bd4\u6d77\u7684\u82b3\u9999",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_aurora/la-aurora_250.jpg",
+    "cigar_count": 82,
+    "id": 1066,
+    "name": "La Aurora",
+    "name_cn": "\u62c9 \u5965\u7f57\u62c9",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/la_barba/la-barba_250.jpg",
+    "cigar_count": 10,
+    "id": 1067,
+    "name": "La Barba",
+    "name_cn": "\u80e1\u987b",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/la_bavaria/la-bavaria_250.jpg",
+    "cigar_count": 1,
+    "id": 1068,
+    "name": "La Bavaria",
+    "name_cn": "\u62c9\u5df4\u4f10\u5229\u4e9a",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/la_boheme/la-boheme_250.jpg",
+    "cigar_count": 1,
+    "id": 1069,
+    "name": "La Boheme",
+    "name_cn": "\u6ce2\u897f\u7c73\u4e9a\u4eba",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/la_buena_cosecha/la-buena-cosecha_250.jpg",
+    "cigar_count": 1,
+    "id": 1070,
+    "name": "La Buena Cosecha",
+    "name_cn": "\u597d\u6536\u6210",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_estancia/la-estancia_250.png",
+    "cigar_count": 7,
+    "id": 1071,
+    "name": "La Estancia",
+    "name_cn": "\u62c9 \u57c3\u65af\u5766\u897f\u4e9a",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/la_estrella/la-estrella_250.jpg",
+    "cigar_count": 5,
+    "id": 1072,
+    "name": "La Estrella",
+    "name_cn": "\u661f\u661f",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/la_familia/la-familia_250.png",
+    "cigar_count": 5,
+    "id": 1073,
+    "name": "La Familia",
+    "name_cn": "\u5bb6\u65cf",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/la_flor_dominicana/la-flor-dominicana_250.jpg",
+    "cigar_count": 58,
+    "id": 1074,
+    "name": "La Flor Dominicana",
+    "name_cn": "\u591a\u7c73\u5c3c\u52a0\u4e4b\u82b1",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/la_galana/la-galana_250.jpg",
+    "cigar_count": 16,
+    "id": 1075,
+    "name": "La Galana",
+    "name_cn": "\u62c9\u52a0\u62c9\u7eb3",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/la_galera/la-galera_250.png",
+    "cigar_count": 49,
+    "id": 1076,
+    "name": "La Galera",
+    "name_cn": "\u62c9\u00b7\u683c\u96f7\u62c9",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/la_libertad/la-libertad_250.jpg",
+    "cigar_count": 4,
+    "id": 1077,
+    "name": "La Libertad",
+    "name_cn": "\u81ea\u7531",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_magdalena/la-magdalena_250.jpeg",
+    "cigar_count": 3,
+    "id": 1078,
+    "name": "La Magdalena",
+    "name_cn": "\u62c9\u9a6c\u683c\u8fbe\u83b1\u7eb3",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/la_palina/la-palina_250.jpg",
+    "cigar_count": 67,
+    "id": 1079,
+    "name": "La Palina",
+    "name_cn": "\u62c9\u5e15\u91cc\u5a1c",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/la_perla_de_luzon/la-perla-de-luzon_250.jpeg",
+    "cigar_count": 1,
+    "id": 1080,
+    "name": "La Perla de Luzon",
+    "name_cn": "\u5415\u5b8b\u4e4b\u73e0",
+    "origin": "Philippines"
+  },
+  {
+    "brand_img": "/images/brands/la_rica/la-rica_250.jpg",
+    "cigar_count": 1,
+    "id": 1081,
+    "name": "La Rica",
+    "name_cn": "\u5bcc\u5eb6\u4e4b\u5730",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_rosa_de_sandiego/la-rosa-de-sandiego_250.jpg",
+    "cigar_count": 14,
+    "id": 1082,
+    "name": "La Rosa de Sandiego",
+    "name_cn": "\u5723\u5730\u4e9a\u54e5\u73ab\u7470",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_sagrada_familia/la-sagrada-familia_250.jpg",
+    "cigar_count": 2,
+    "id": 1083,
+    "name": "La Sagrada Familia",
+    "name_cn": "\u5723\u5bb6\u5802",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/la_sirena/la-sirena_250.jpg",
+    "cigar_count": 3,
+    "id": 1084,
+    "name": "La Sirena",
+    "name_cn": "\u7f8e\u4eba\u9c7c",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/lampert/lampert_250.jpg",
+    "cigar_count": 14,
+    "id": 1085,
+    "name": "Lampert",
+    "name_cn": "\u5170\u73c0\u7279",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/laura_chavin/laura-chavin_250.png",
+    "cigar_count": 31,
+    "id": 1086,
+    "name": "Laura Chavin",
+    "name_cn": "\u52b3\u62c9\u00b7\u67e5\u6587",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/le_cigar/le-cigar_250.jpg",
+    "cigar_count": 9,
+    "id": 1087,
+    "name": "Le Cigar",
+    "name_cn": "\u96ea\u8304",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/legado/legado_250.jpg",
+    "cigar_count": 4,
+    "id": 1088,
+    "name": "Legado",
+    "name_cn": "\u9057\u4ea7",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/leite___alves/leite-amp--alves_250.jpg",
+    "cigar_count": 5,
+    "id": 1089,
+    "name": "Leite & Alves",
+    "name_cn": "\u83b1\u7279\u4e0e\u963f\u5c14\u7ef4\u65af",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/leon_jimenes/leon-jimenes_250.jpeg",
+    "cigar_count": 19,
+    "id": 1090,
+    "name": "Leon Jimenes",
+    "name_cn": "\u91cc\u6602 \u5409\u6885\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/leonel/leonel_250.png",
+    "cigar_count": 44,
+    "id": 1091,
+    "name": "Leonel",
+    "name_cn": "\u83b1\u6602\u5185\u5c14",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/les_privatiers/les-privatiers_250.jpg",
+    "cigar_count": 12,
+    "id": 1092,
+    "name": "Les Privatiers",
+    "name_cn": "\u79c1\u63a0\u8005",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/loaisiga/loaisiga_250.jpeg",
+    "cigar_count": 6,
+    "id": 1093,
+    "name": "Loaisiga",
+    "name_cn": "\u6d1b\u827e\u897f\u52a0",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/los_amigos/los-amigos_250.jpg",
+    "cigar_count": 1,
+    "id": 1094,
+    "name": "Los Amigos",
+    "name_cn": "\u670b\u53cb\u4eec",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/luciano/luciano_250.jpg",
+    "cigar_count": 34,
+    "id": 1095,
+    "name": "Luciano",
+    "name_cn": "\u5362\u897f\u4e9a\u8bfa",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/lunatic/lunatic_250.jpg",
+    "cigar_count": 11,
+    "id": 1096,
+    "name": "Lunatic",
+    "name_cn": "\u75af\u5b50",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/macanudo/macanudo_250.jpg",
+    "cigar_count": 46,
+    "id": 1097,
+    "name": "Macanudo",
+    "name_cn": "\u9ea6\u514b\u7ebd\u675c",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/malek\u00f6/malekoe_250.jpeg",
+    "cigar_count": 3,
+    "id": 1098,
+    "name": "Malek\u00f6",
+    "name_cn": "\u9a6c\u83b1\u79d1",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/man_o__war/man-o-war_250.jpeg",
+    "cigar_count": 2,
+    "id": 1099,
+    "name": "Man O' War",
+    "name_cn": "\u6218\u795e",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/manuel_alonso/manuel-alonso_250.jpg",
+    "cigar_count": 19,
+    "id": 1100,
+    "name": "Manuel Alonso",
+    "name_cn": "\u66fc\u52aa\u57c3\u5c14\u00b7\u963f\u9686\u7d22",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/mara/mara_250.jpg",
+    "cigar_count": 4,
+    "id": 1101,
+    "name": "Mara",
+    "name_cn": "\u739b\u62c9",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/maradona/maradona_250.jpg",
+    "cigar_count": 2,
+    "id": 1102,
+    "name": "Maradona",
+    "name_cn": "\u9a6c\u62c9\u591a\u7eb3",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/marca_fina/marca-fina_250.jpg",
+    "cigar_count": 36,
+    "id": 1103,
+    "name": "Marca Fina",
+    "name_cn": "\u7cbe\u7f8e\u54c1\u724c",
+    "origin": "Panama"
+  },
+  {
+    "brand_img": "/images/brands/maria_mancini/maria-mancini_250.jpg",
+    "cigar_count": 28,
+    "id": 1104,
+    "name": "Maria Mancini",
+    "name_cn": "\u739b\u4e3d\u4e9a\u00b7\u66fc\u5947\u5c3c",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/mata_hari/mata-hari_250.jpg",
+    "cigar_count": 3,
+    "id": 1105,
+    "name": "Mata Hari",
+    "name_cn": "\u739b\u5854\u00b7\u54c8\u4e3d",
+    "origin": "Indonesia"
+  },
+  {
+    "brand_img": "/images/brands/matilde/matilde_250.jpg",
+    "cigar_count": 19,
+    "id": 1106,
+    "name": "Matilde",
+    "name_cn": "\u9a6c\u8482\u5c14\u5fb7",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/may_s/mays_250.jpeg",
+    "cigar_count": 4,
+    "id": 1107,
+    "name": "May's",
+    "name_cn": "\u6885\u6c0f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/maya_selva/maya-selva_250.jpg",
+    "cigar_count": 2,
+    "id": 1108,
+    "name": "Maya Selva",
+    "name_cn": "\u739b\u96c5\u00b7\u585e\u5c14\u74e6",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/meerapfel/meerapfel_250.png",
+    "cigar_count": 14,
+    "id": 1109,
+    "name": "Meerapfel",
+    "name_cn": "\u7c73\u62c9\u666e\u8d39\u5c14",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/meine/meine_250.jpeg",
+    "cigar_count": 12,
+    "id": 1110,
+    "name": "Meine",
+    "name_cn": "\u6211\u7684",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/meine_longfiller/meine-longfiller_250.jpg",
+    "cigar_count": 6,
+    "id": 1111,
+    "name": "Meine Longfiller",
+    "name_cn": "\u6211\u7684\u957f\u586b\u6599",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/messmer/messmer_250.jpg",
+    "cigar_count": 1,
+    "id": 1112,
+    "name": "Messmer",
+    "name_cn": "\u6885\u65af\u9ed8",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/micallef/micallef_250.jpg",
+    "cigar_count": 1,
+    "id": 1113,
+    "name": "Micallef",
+    "name_cn": "\u7c73\u5361\u83b1\u592b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/mombacho/mombacho_250.jpg",
+    "cigar_count": 2,
+    "id": 1114,
+    "name": "Mombacho",
+    "name_cn": "\u8499\u5df4\u4e54",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/montes/montes_250.jpg",
+    "cigar_count": 9,
+    "id": 1115,
+    "name": "Montes",
+    "name_cn": "\u8499\u7279\u65af",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/montosa/montosa_250.jpg",
+    "cigar_count": 13,
+    "id": 1116,
+    "name": "Montosa",
+    "name_cn": "\u8499\u6258\u8428",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/mustique/mustique_250.jpg",
+    "cigar_count": 10,
+    "id": 1117,
+    "name": "Mustique",
+    "name_cn": "\u9a6c\u65af\u8482\u514b",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/my_father_cigars/my-father-cigars_250.jpg",
+    "cigar_count": 77,
+    "id": 1118,
+    "name": "My Father Cigars",
+    "name_cn": "\u6211\u7684\u7236\u4eb2\u96ea\u8304",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/nicarao/nicarao_250.jpg",
+    "cigar_count": 21,
+    "id": 1119,
+    "name": "Nicarao",
+    "name_cn": "\u5c3c\u5361\u62c9\u5965",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/nicaroma/nicaroma_250.jpg",
+    "cigar_count": 3,
+    "id": 1120,
+    "name": "Nicaroma",
+    "name_cn": "\u5c3c\u5361\u7f57\u9a6c",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/nordlicht/nordlicht_250.jpg",
+    "cigar_count": 5,
+    "id": 1121,
+    "name": "Nordlicht",
+    "name_cn": "\u5317\u6781\u5149",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/notorious/notorious_250.jpeg",
+    "cigar_count": 3,
+    "id": 1122,
+    "name": "Notorious",
+    "name_cn": "\u81ed\u540d\u662d\u8457",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/oliva/oliva_250.jpg",
+    "cigar_count": 103,
+    "id": 1123,
+    "name": "Oliva",
+    "name_cn": "\u5965\u5229\u74e6",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/omar_rodriguez/omar-rodriguez_250.jpg",
+    "cigar_count": 5,
+    "id": 1124,
+    "name": "Omar Rodriguez",
+    "name_cn": "\u5965\u9a6c\u5c14\u00b7\u7f57\u5fb7\u91cc\u683c\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/oscar_valladares/oscar-valladares_250.jpg",
+    "cigar_count": 74,
+    "id": 1125,
+    "name": "Oscar Valladares",
+    "name_cn": "\u5965\u65af\u5361\u00b7\u74e6\u62c9\u8fbe\u96f7\u65af",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/padilla/padilla_250.jpg",
+    "cigar_count": 12,
+    "id": 1126,
+    "name": "Padilla",
+    "name_cn": "\u5e15\u8fea\u5229\u4e9a",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/padron/padron_250.png",
+    "cigar_count": 97,
+    "id": 1127,
+    "name": "Padron",
+    "name_cn": "\u5e15\u5fb7\u9f99",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/palmar_arriba/palmar-arriba_250.jpg",
+    "cigar_count": 4,
+    "id": 1128,
+    "name": "Palmar Arriba",
+    "name_cn": "\u4e0a\u68d5\u6988",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/paradiso/paradiso_250.jpg",
+    "cigar_count": 20,
+    "id": 1129,
+    "name": "Paradiso",
+    "name_cn": "\u5e15\u62c9\u8fea\u7d22",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/parcero/parcero_250.jpg",
+    "cigar_count": 6,
+    "id": 1130,
+    "name": "Parcero",
+    "name_cn": "\u4f19\u4f34",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/partageno/partageno_250.jpg",
+    "cigar_count": 16,
+    "id": 1131,
+    "name": "Partageno",
+    "name_cn": "\u5e15\u5854\u8d6b\u8bfa",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/patoro/patoro_250.jpg",
+    "cigar_count": 16,
+    "id": 1132,
+    "name": "Patoro",
+    "name_cn": "\u5e15\u6258\u7f57",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/pdr/pdr_250.jpg",
+    "cigar_count": 26,
+    "id": 1133,
+    "name": "PDR",
+    "name_cn": "\u5c14\u591a\u83ab\u5206\u9500\u4ee3\u7406",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/perdomo/perdomo_250.png",
+    "cigar_count": 82,
+    "id": 1134,
+    "name": "Perdomo",
+    "name_cn": "\u4f69\u5c14\u591a\u83ab",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/perla_del_mar/perla-del-mar_250.jpg",
+    "cigar_count": 13,
+    "id": 1135,
+    "name": "Perla del Mar",
+    "name_cn": "\u78a7\u6d77\u660e\u73e0",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/personales/personales_250.jpg",
+    "cigar_count": 2,
+    "id": 1136,
+    "name": "Personales",
+    "name_cn": "\u4e2a\u4eba",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/pichardo/pichardo_250.png",
+    "cigar_count": 11,
+    "id": 1137,
+    "name": "Pichardo",
+    "name_cn": "\u76ae\u67e5\u591a",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/placeres/placeres_250.jpg",
+    "cigar_count": 3,
+    "id": 1138,
+    "name": "Placeres",
+    "name_cn": "\u6109\u60a6",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/plasencia/plasencia_250.jpg",
+    "cigar_count": 40,
+    "id": 1139,
+    "name": "Plasencia",
+    "name_cn": "\u5e15\u62c9\u68ee",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/platinum_nova/platinum-nova_250.jpg",
+    "cigar_count": 5,
+    "id": 1140,
+    "name": "Platinum Nova",
+    "name_cn": "\u94c2\u91d1\u65b0\u661f",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/premium_outlet_cigars/premium-outlet-cigars_250.jpeg",
+    "cigar_count": 3,
+    "id": 1141,
+    "name": "Premium Outlet Cigars",
+    "name_cn": "\u9ad8\u7ea7\u6298\u6263\u5e97\u96ea\u8304",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/principle_cigars/principle-cigars_250.jpg",
+    "cigar_count": 39,
+    "id": 1142,
+    "name": "Principle Cigars",
+    "name_cn": "\u539f\u5219\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/privada_cigar_club/privada-cigar-club_250.jpg",
+    "cigar_count": 11,
+    "id": 1143,
+    "name": "Privada Cigar Club",
+    "name_cn": "\u79c1\u4eba\u96ea\u8304\u4ff1\u4e50\u90e8",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/private_stock/private-stock_250.jpg",
+    "cigar_count": 1,
+    "id": 1144,
+    "name": "Private Stock",
+    "name_cn": "\u79c1\u4eba\u5e93\u5b58",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/prominent/prominent_250.jpg",
+    "cigar_count": 7,
+    "id": 1145,
+    "name": "Prominent",
+    "name_cn": "\u6770\u51fa",
+    "origin": "Indonesia"
+  },
+  {
+    "brand_img": "/images/brands/psyko/psyko_250.jpg",
+    "cigar_count": 1,
+    "id": 1146,
+    "name": "Psyko",
+    "name_cn": "\u8d5b\u79d1",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/pyranos/pyranos_250.jpg",
+    "cigar_count": 1,
+    "id": 1147,
+    "name": "Pyranos",
+    "name_cn": "\u76ae\u62c9\u8bfa\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/quesada/quesada_250.jpg",
+    "cigar_count": 10,
+    "id": 1148,
+    "name": "Quesada",
+    "name_cn": "\u514b\u8428\u8fbe",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/quisqueya/quisqueya_250.jpg",
+    "cigar_count": 23,
+    "id": 1149,
+    "name": "Quisqueya",
+    "name_cn": "\u57fa\u65af\u514b\u4e9a",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/quorum/quorum_250.jpg",
+    "cigar_count": 19,
+    "id": 1150,
+    "name": "Quorum",
+    "name_cn": "\u5361\u9f99",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/r_a__villamil/ra-villamil_250.jpg",
+    "cigar_count": 7,
+    "id": 1151,
+    "name": "R.A. Villamil",
+    "name_cn": "R\u00b7A\u00b7\u6bd4\u5229\u4e9a\u7c73\u5c14",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/raices/raices_250.jpeg",
+    "cigar_count": 6,
+    "id": 1152,
+    "name": "Raices",
+    "name_cn": "\u6839\u6e90",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/rancho_luna/rancho-luna_250.jpeg",
+    "cigar_count": 4,
+    "id": 1153,
+    "name": "Rancho Luna",
+    "name_cn": "\u6708\u4eae\u7267\u573a",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/rattray_s/rattrays_250.png",
+    "cigar_count": 1,
+    "id": 1154,
+    "name": "Rattray's",
+    "name_cn": "\u62c9\u7279\u96f7",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/rebellion/rebellion_250.jpg",
+    "cigar_count": 10,
+    "id": 1155,
+    "name": "Rebellion",
+    "name_cn": "\u53cd\u53db",
+    "origin": "Sampler"
+  },
+  {
+    "brand_img": "/images/brands/regalia_fina/regalia-fina_250.jpg",
+    "cigar_count": 3,
+    "id": 1156,
+    "name": "Regalia Fina",
+    "name_cn": "\u7cbe\u7f8e\u5fa1\u54c1",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/regius/regius_250.png",
+    "cigar_count": 5,
+    "id": 1157,
+    "name": "Regius",
+    "name_cn": "\u738b\u5ba4",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/reposado/reposado_250.jpg",
+    "cigar_count": 8,
+    "id": 1158,
+    "name": "Reposado",
+    "name_cn": "\u9648\u917f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/reserva_del_presidente/reserva-del-presidente_250.jpg",
+    "cigar_count": 1,
+    "id": 1159,
+    "name": "Reserva del Presidente",
+    "name_cn": "\u603b\u7edf\u73cd\u85cf",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/rocky_patel/rocky-patel_250.jpg",
+    "cigar_count": 157,
+    "id": 1160,
+    "name": "Rocky Patel",
+    "name_cn": "\u6d1b\u57fa \u5e15\u7279\u5c14",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/rodrigo_de_jerez/rodrigo-de-jerez_250.jpg",
+    "cigar_count": 9,
+    "id": 1161,
+    "name": "Rodrigo de Jerez",
+    "name_cn": "\u7f57\u5fb7\u91cc\u6208\u00b7\u5fb7\u8d6b\u96f7\u65af",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/rojas/rojas_250.jpg",
+    "cigar_count": 39,
+    "id": 1162,
+    "name": "Rojas",
+    "name_cn": "\u7f57\u54c8\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/rolando_reyes/rolando-reyes_250.jpeg",
+    "cigar_count": 1,
+    "id": 1163,
+    "name": "Rolando Reyes",
+    "name_cn": "\u7f57\u5170\u591a\u00b7\u96f7\u8036\u65af",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/roma_craft/roma-craft_250.jpg",
+    "cigar_count": 99,
+    "id": 1164,
+    "name": "RoMa Craft",
+    "name_cn": "\u7f57\u9a6c\u7cbe\u917f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/room_101/room-101_250.jpg",
+    "cigar_count": 34,
+    "id": 1165,
+    "name": "Room 101",
+    "name_cn": "101\u53f7\u623f",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/rosa_nicaragua/rosa-nicaragua_250.png",
+    "cigar_count": 11,
+    "id": 1166,
+    "name": "Rosa Nicaragua",
+    "name_cn": "\u5c3c\u52a0\u62c9\u74dc\u73ab\u7470",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/saga/saga_250.jpeg",
+    "cigar_count": 14,
+    "id": 1167,
+    "name": "Saga",
+    "name_cn": "\u4f20\u5947",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/samana/samana_250.jpg",
+    "cigar_count": 25,
+    "id": 1168,
+    "name": "Samana",
+    "name_cn": "\u8428\u9a6c\u7eb3",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/san_pedro_de_macoris/san-pedro-de-macoris_250.jpg",
+    "cigar_count": 8,
+    "id": 1169,
+    "name": "San Pedro de Macoris",
+    "name_cn": "\u5723\u4f69\u5fb7\u7f57-\u5fb7\u9a6c\u79d1\u91cc\u65af",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/santa_clara/santa-clara_250.jpg",
+    "cigar_count": 3,
+    "id": 1170,
+    "name": "Santa Clara",
+    "name_cn": "\u5723\u514b\u62c9\u62c9",
+    "origin": "Mexico"
+  },
+  {
+    "brand_img": "/images/brands/santa_damiana/santa-damiana_250.jpg",
+    "cigar_count": 13,
+    "id": 1171,
+    "name": "Santa Damiana",
+    "name_cn": "\u80dc\u5fb7\u7f8e",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/schuster/schuster_250.jpg",
+    "cigar_count": 1,
+    "id": 1172,
+    "name": "Schuster",
+    "name_cn": "\u8212\u65af\u7279",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/secret_ashes/secret-ashes_250.jpeg",
+    "cigar_count": 2,
+    "id": 1173,
+    "name": "Secret Ashes",
+    "name_cn": "\u79d8\u5bc6\u7070\u70ec",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/silencio/silencio_250.jpg",
+    "cigar_count": 10,
+    "id": 1174,
+    "name": "Silencio",
+    "name_cn": "\u5bc2\u9759",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/simon_beltre/simon-beltre_250.jpg",
+    "cigar_count": 4,
+    "id": 1175,
+    "name": "Simon Beltre",
+    "name_cn": "\u897f\u8499\u00b7\u8d1d\u5c14\u7279\u96f7",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/skelton/skelton_250.jpg",
+    "cigar_count": 6,
+    "id": 1176,
+    "name": "Skelton",
+    "name_cn": "\u65af\u51ef\u5c14\u987f",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/skull_77/skull-77_250.jpg",
+    "cigar_count": 3,
+    "id": 1177,
+    "name": "Skull 77",
+    "name_cn": "\u9ab7\u9ac577",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/smoking_jacket/smoking-jacket_250.jpeg",
+    "cigar_count": 8,
+    "id": 1178,
+    "name": "Smoking Jacket",
+    "name_cn": "\u5438\u70df\u5939\u514b",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/sons_of_anarchy/sons-of-anarchy_250.jpg",
+    "cigar_count": 1,
+    "id": 1179,
+    "name": "Sons of Anarchy",
+    "name_cn": "\u6df7\u4e71\u4e4b\u5b50",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/spartanos/spartanos_250.jpg",
+    "cigar_count": 4,
+    "id": 1180,
+    "name": "Spartanos",
+    "name_cn": "\u65af\u5df4\u8fbe\u8bfa\u65af",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/stauffenberg/stauffenberg_250.jpg",
+    "cigar_count": 1,
+    "id": 1181,
+    "name": "Stauffenberg",
+    "name_cn": "\u65bd\u9676\u82ac\u8d1d\u683c",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/syn/syn_250.jpg",
+    "cigar_count": 6,
+    "id": 1182,
+    "name": "SYN",
+    "name_cn": "SYN\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/t__sonthi/t-sonthi_250.jpg",
+    "cigar_count": 5,
+    "id": 1183,
+    "name": "T. Sonthi",
+    "name_cn": "T\u00b7\u9882\u63d0",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/tabacalera/tabacalera_250.jpg",
+    "cigar_count": 18,
+    "id": 1184,
+    "name": "Tabacalera",
+    "name_cn": "\u70df\u8349\u516c\u53f8",
+    "origin": "Philippines"
+  },
+  {
+    "brand_img": "/images/brands/tabacalera_del_oriente/tabacalera-del-oriente_250.jpg",
+    "cigar_count": 11,
+    "id": 1185,
+    "name": "Tabacalera del Oriente",
+    "name_cn": "\u4e1c\u65b9\u70df\u8349\u516c\u53f8",
+    "origin": "Peru"
+  },
+  {
+    "brand_img": "/images/brands/tabacos_mata_fina/tabacos-mata-fina_250.png",
+    "cigar_count": 8,
+    "id": 1186,
+    "name": "Tabacos Mata Fina",
+    "name_cn": "\u9a6c\u5854\u83f2\u7eb3\u70df\u8349",
+    "origin": "Brazil"
+  },
+  {
+    "brand_img": "/images/brands/tabaqueria_de_filipinas/tabaqueria-de-filipinas_250.jpg",
+    "cigar_count": 1,
+    "id": 1187,
+    "name": "Tabaqueria de Filipinas",
+    "name_cn": "\u83f2\u5f8b\u5bbe\u70df\u8349\u5e97",
+    "origin": "Philippines"
+  },
+  {
+    "brand_img": "/images/brands/tarusata/tarusata_250.jpg",
+    "cigar_count": 2,
+    "id": 1188,
+    "name": "Tarusata",
+    "name_cn": "\u5854\u9c81\u8428\u5854",
+    "origin": "Indonesia"
+  },
+  {
+    "brand_img": "/images/brands/tatascan/tatascan_250.jpeg",
+    "cigar_count": 4,
+    "id": 1189,
+    "name": "Tatascan",
+    "name_cn": "\u5854\u5854\u65af\u574e",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/tatuaje/tatuaje_250.jpeg",
+    "cigar_count": 111,
+    "id": 1190,
+    "name": "Tatuaje",
+    "name_cn": "\u5854\u56fe\u963f\u8d6b",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/te_amo/te-amo_250.jpg",
+    "cigar_count": 2,
+    "id": 1191,
+    "name": "Te Amo",
+    "name_cn": "\u6211\u7231\u4f60",
+    "origin": "Mexico"
+  },
+  {
+    "brand_img": "/images/brands/teatro_del_mundo/teatro-del-mundo_250.jpg",
+    "cigar_count": 1,
+    "id": 1192,
+    "name": "Teatro del Mundo",
+    "name_cn": "\u4e16\u754c\u5267\u9662",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/the_bouncer/the-bouncer_250.jpg",
+    "cigar_count": 6,
+    "id": 1193,
+    "name": "The Bouncer",
+    "name_cn": "\u4fdd\u9556",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/the_traveler/the-traveler_250.jpg",
+    "cigar_count": 17,
+    "id": 1194,
+    "name": "The Traveler",
+    "name_cn": "\u65c5\u884c\u8005",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/torano/torano_250.jpeg",
+    "cigar_count": 4,
+    "id": 1195,
+    "name": "Torano",
+    "name_cn": "\u6258\u62c9\u8bfa",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/tortuga/tortuga_250.jpg",
+    "cigar_count": 4,
+    "id": 1196,
+    "name": "Tortuga",
+    "name_cn": "\u9f9f\u5c9b",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/toscano/toscano_250.jpg",
+    "cigar_count": 13,
+    "id": 1197,
+    "name": "Toscano",
+    "name_cn": "\u6258\u65af\u5361\u8bfa",
+    "origin": "Italy"
+  },
+  {
+    "brand_img": "/images/brands/total_flame/total-flame_250.png",
+    "cigar_count": 4,
+    "id": 1198,
+    "name": "Total Flame",
+    "name_cn": "\u5168\u7130",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/umnum/umnum_250.jpg",
+    "cigar_count": 5,
+    "id": 1199,
+    "name": "Umnum",
+    "name_cn": "\u4e4c\u59c6\u5357",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/urtyp/urtyp_250.jpg",
+    "cigar_count": 4,
+    "id": 1200,
+    "name": "Urtyp",
+    "name_cn": "\u539f\u59cb\u578b",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/valentino_siesto/valentino-siesto_250.png",
+    "cigar_count": 17,
+    "id": 1201,
+    "name": "Valentino Siesto",
+    "name_cn": "\u534e\u4f26\u5929\u5974",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/vallejuelo_cigars/vallejuelo-cigars_250.jpg",
+    "cigar_count": 1,
+    "id": 1202,
+    "name": "Vallejuelo Cigars",
+    "name_cn": "\u74e6\u5217\u8d6b\u6d1b\u96ea\u8304",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/vedado/vedado_250.jpg",
+    "cigar_count": 6,
+    "id": 1203,
+    "name": "Vedado",
+    "name_cn": "\u97e6\u8fbe\u591a",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/vegafina/vegafina_250.jpg",
+    "cigar_count": 51,
+    "id": 1204,
+    "name": "VegaFina",
+    "name_cn": "\u7ef4\u4f73",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/vegas_de_santiago/vegas-de-santiago_250.jpg",
+    "cigar_count": 29,
+    "id": 1205,
+    "name": "Vegas de Santiago",
+    "name_cn": "\u5723\u5730\u4e9a\u54e5\u7ef4\u52a0\u65af",
+    "origin": "Costa Rica"
+  },
+  {
+    "brand_img": "/images/brands/viaje/viaje_250.png",
+    "cigar_count": 7,
+    "id": 1206,
+    "name": "Viaje",
+    "name_cn": "\u5f81\u9014",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/victor_calvo/victor-calvo_250.jpg",
+    "cigar_count": 21,
+    "id": 1207,
+    "name": "Victor Calvo",
+    "name_cn": "\u7ef4\u514b\u591a\u00b7\u5361\u5c14\u6c83",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/villa_vieja/villa-vieja_250.jpg",
+    "cigar_count": 4,
+    "id": 1208,
+    "name": "Villa Vieja",
+    "name_cn": "\u8001\u522b\u5885",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/villa_zamorano/villa-zamorano_250.jpg",
+    "cigar_count": 18,
+    "id": 1209,
+    "name": "Villa Zamorano",
+    "name_cn": "\u7ef4\u62c9",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/villiger/villiger_250.jpg",
+    "cigar_count": 60,
+    "id": 1210,
+    "name": "Villiger",
+    "name_cn": "\u5a01\u529b\u683c",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/warped/warped_250.jpeg",
+    "cigar_count": 51,
+    "id": 1211,
+    "name": "Warped",
+    "name_cn": "\u626d\u66f2",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/west_tampa_tobacco_company/west-tampa-tobacco-company_250.jpg",
+    "cigar_count": 17,
+    "id": 1212,
+    "name": "West Tampa Tobacco Company",
+    "name_cn": "\u897f\u5766\u5e15\u70df\u8349\u516c\u53f8",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/woermann_cigars/woermann-cigars_250.jpg",
+    "cigar_count": 42,
+    "id": 1213,
+    "name": "Woermann Cigars",
+    "name_cn": "\u6c83\u5c14\u66fc\u96ea\u8304",
+    "origin": "Germany"
+  },
+  {
+    "brand_img": "/images/brands/wolfertz/wolfertz_250.jpeg",
+    "cigar_count": 3,
+    "id": 1214,
+    "name": "Wolfertz",
+    "name_cn": "\u6c83\u5c14\u5f17\u8328",
+    "origin": "Honduras"
+  },
+  {
+    "brand_img": "/images/brands/xhaxhi_bobi/xhaxhi-bobi_250.jpg",
+    "cigar_count": 9,
+    "id": 1215,
+    "name": "Xhaxhi Bobi",
+    "name_cn": "\u590f\u5409\u00b7\u6ce2\u6bd4",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/zino/zino_250.jpg",
+    "cigar_count": 17,
+    "id": 1216,
+    "name": "Zino",
+    "name_cn": "\u5b63\u8bfa",
+    "origin": "Dominican Republic"
+  },
+  {
+    "brand_img": "/images/brands/1502/1502_250.jpg",
+    "cigar_count": 32,
+    "id": 1217,
+    "name": "1502",
+    "name_cn": "1502",
+    "origin": "Nicaragua"
+  },
+  {
+    "brand_img": "/images/brands/acid/Acid.jpg",
+    "cigar_count": 20,
+    "id": 1218,
+    "name": "Acid",
+    "name_cn": "\u8ff7\u5e7b",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/alfonso/alfonso.jpg",
+    "cigar_count": 9,
+    "id": 1221,
+    "name": "Alfonso",
+    "name_cn": "\u963f\u65b9\u7d22",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/atabey/atabey-tn.jpg",
+    "cigar_count": 6,
+    "id": 1223,
+    "name": "Atabey",
+    "name_cn": "\u963f\u5854\u8d1d",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/baccarat/Baccarat.jpg",
+    "cigar_count": 15,
+    "id": 1224,
+    "name": "Baccarat",
+    "name_cn": "\u767e\u5bb6\u4e50",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/bandolero/bandolero-tn.jpg",
+    "cigar_count": 9,
+    "id": 1225,
+    "name": "Bandolero",
+    "name_cn": "\u73ed\u591a\u83b1\u7f57",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/bellatto/bellatto.jpg",
+    "cigar_count": 5,
+    "id": 1226,
+    "name": "Bellatto",
+    "name_cn": "\u8d1d\u62c9\u6258",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/bolivar_noncuban/Bolivar_noncuban.jpg",
+    "cigar_count": 12,
+    "id": 1227,
+    "name": "Bolivar",
+    "name_cn": "\u73bb\u5229\u74e6\u5c14(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/byron/byron-tn.jpg",
+    "cigar_count": 12,
+    "id": 1228,
+    "name": "Byron",
+    "name_cn": "\u62dc\u4f26",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/casa_carrillo/casacarrillo.jpg",
+    "cigar_count": 40,
+    "id": 1230,
+    "name": "Casa Carrillo",
+    "name_cn": "\u5361\u8428\u00b7\u5361\u91cc\u7565",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/cohiba_noncuban/Cohiba_noncuban.jpg",
+    "cigar_count": 28,
+    "id": 1232,
+    "name": "Cohiba",
+    "name_cn": "\u9ad8\u5e0c\u9738(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/curivari/Curivari.jpg",
+    "cigar_count": 70,
+    "id": 1233,
+    "name": "Curivari",
+    "name_cn": "\u5e93\u91cc\u74e6\u91cc",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/don_lino/don-lino.jpg",
+    "cigar_count": 6,
+    "id": 1234,
+    "name": "Don Lino",
+    "name_cn": "\u5510\u00b7\u5229\u8bfa",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/el_rey_del_mundo_noncuban/ElReyDelMundo_noncuban.jpg",
+    "cigar_count": 16,
+    "id": 1237,
+    "name": "El Rey Del Mundo",
+    "name_cn": "\u4e16\u754c\u4e4b\u738b(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/espinosa/Espinosa.jpg",
+    "cigar_count": 41,
+    "id": 1238,
+    "name": "Espinosa",
+    "name_cn": "\u57c3\u65af\u76ae\u8bfa\u8428",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/ferio_tego/FerioTego.jpg",
+    "cigar_count": 62,
+    "id": 1239,
+    "name": "Ferio Tego",
+    "name_cn": "\u8d39\u91cc\u5965\u00b7\u7279\u6208",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/firecracker/firecracker_tn.jpg",
+    "cigar_count": 3,
+    "id": 1240,
+    "name": "Firecracker",
+    "name_cn": "\u97ad\u70ae",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/fonseca_noncuban/Fonseca_noncuban.jpg",
+    "cigar_count": 4,
+    "id": 1241,
+    "name": "Fonseca",
+    "name_cn": "\u4e30\u585e\u5361(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/foundation_cigar_company/Foundation.jpg",
+    "cigar_count": 75,
+    "id": 1242,
+    "name": "Foundation Cigar Company",
+    "name_cn": "\u57fa\u77f3\u96ea\u8304\u516c\u53f8",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/gran_habano/GranHabano.jpg",
+    "cigar_count": 36,
+    "id": 1243,
+    "name": "Gran Habano",
+    "name_cn": "\u5927\u54c8\u74e6\u90a3",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/herrera_esteli/Herrera-Esteli.jpg",
+    "cigar_count": 14,
+    "id": 1244,
+    "name": "Herrera Esteli",
+    "name_cn": "\u57c3\u96f7\u62c9\u00b7\u57c3\u65af\u7279\u5229",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/hoyo_de_monterrey_noncuban/Hoya-de-Monterrey_noncuban.jpg",
+    "cigar_count": 10,
+    "id": 1245,
+    "name": "Hoyo de Monterrey",
+    "name_cn": "\u597d\u53cb\u00b7\u8499\u7279\u96f7(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/h__upmann_noncuban/H-Upmann_noncuban.jpg",
+    "cigar_count": 30,
+    "id": 1246,
+    "name": "H. Upmann",
+    "name_cn": "\u4e4c\u666e\u66fc(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/illusione/Illusione.jpg",
+    "cigar_count": 59,
+    "id": 1247,
+    "name": "Illusione",
+    "name_cn": "\u5e7b\u5883",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/indian_motorcycle/IndianMoto.jpg",
+    "cigar_count": 14,
+    "id": 1248,
+    "name": "Indian Motorcycle",
+    "name_cn": "\u5370\u7b2c\u5b89\u6469\u6258",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/j_c_newman_cigar_co_/JC-Newman-Cigar.jpg",
+    "cigar_count": 7,
+    "id": 1249,
+    "name": "J.C Newman Cigar Co.",
+    "name_cn": "J.C.\u7ebd\u66fc\u96ea\u8304\u516c\u53f8",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/j__london/JLondon-Cigars_brand.jpg",
+    "cigar_count": 4,
+    "id": 1250,
+    "name": "J. London",
+    "name_cn": "J.\u4f26\u6566",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/la_aroma_de_cuba/La-Aroma-de-Cuba.jpg",
+    "cigar_count": 38,
+    "id": 1251,
+    "name": "La Aroma de Cuba",
+    "name_cn": "\u53e4\u5df4\u82ac\u82b3",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/la_gloria_cubana_noncuban/La-Gloria-Cubana_noncuban.jpg",
+    "cigar_count": 25,
+    "id": 1252,
+    "name": "La Gloria Cubana",
+    "name_cn": "\u53e4\u5df4\u8363\u8000(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/liga_privada/Liga-Privada.jpg",
+    "cigar_count": 29,
+    "id": 1253,
+    "name": "Liga Privada",
+    "name_cn": "\u8054\u76df\u79c1\u85cf",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/limited_cigar_association/LCA.jpg",
+    "cigar_count": 8,
+    "id": 1254,
+    "name": "Limited Cigar Association",
+    "name_cn": "\u9650\u91cf\u96ea\u8304\u534f\u4f1a",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/lost___found/Lost-and-Found.jpg",
+    "cigar_count": 60,
+    "id": 1255,
+    "name": "Lost & Found",
+    "name_cn": "\u5931\u7269\u62db\u9886",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/lure_cigars/LureCigars_Brand-thumb.jpg",
+    "cigar_count": 2,
+    "id": 1256,
+    "name": "Lure Cigars",
+    "name_cn": "\u8bf1\u60d1\u96ea\u8304",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/montecristo_noncuban/Montecristo_noncuban.jpg",
+    "cigar_count": 33,
+    "id": 1257,
+    "name": "Montecristo",
+    "name_cn": "\u8499\u7279\u514b\u91cc\u65af\u6258(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/nestor_miranda/nestor-miranda.jpg",
+    "cigar_count": 6,
+    "id": 1259,
+    "name": "Nestor Miranda",
+    "name_cn": "\u5185\u65af\u6258\u00b7\u7c73\u5170\u8fbe",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/nording/NordingCigar.jpg",
+    "cigar_count": 3,
+    "id": 1260,
+    "name": "Nording",
+    "name_cn": "\u8bfa\u4e01",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/odyssey/Odyssey.jpg",
+    "cigar_count": 15,
+    "id": 1261,
+    "name": "Odyssey",
+    "name_cn": "\u5965\u5fb7\u8d5b",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/oz_family/Ozgener.jpg",
+    "cigar_count": 16,
+    "id": 1262,
+    "name": "OZ Family",
+    "name_cn": "OZ\u5bb6\u65cf",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/partagas_noncuban/Partagas_noncuban.jpg",
+    "cigar_count": 14,
+    "id": 1263,
+    "name": "Partagas",
+    "name_cn": "\u5e15\u7279\u52a0\u65af(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/powstanie/Powstanie-Cigars_BrandThumb.jpg",
+    "cigar_count": 14,
+    "id": 1264,
+    "name": "Powstanie",
+    "name_cn": "\u6ce2\u592b\u65af\u5766\u5c3c",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/prometheus/Prometheus-Brand-Thumb.jpg",
+    "cigar_count": 13,
+    "id": 1265,
+    "name": "Prometheus",
+    "name_cn": "\u666e\u7f57\u7c73\u4fee\u65af",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/punch_noncuban/Punch_noncuban.jpg",
+    "cigar_count": 45,
+    "id": 1266,
+    "name": "Punch",
+    "name_cn": "\u6f58\u8da3(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/red_anchor/Red-Anchor-tn.jpg",
+    "cigar_count": 3,
+    "id": 1267,
+    "name": "Red Anchor",
+    "name_cn": "\u7ea2\u951a",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/romeo_y_julieta_noncuban/Romeo-y-Julieta_noncuban.jpg",
+    "cigar_count": 41,
+    "id": 1268,
+    "name": "Romeo y Julieta",
+    "name_cn": "\u7f57\u5bc6\u6b27\u4e0e\u6731\u4e3d\u53f6(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/sampler_packs/CigarSamplerPacks.jpg",
+    "cigar_count": 141,
+    "id": 1270,
+    "name": "Sampler Packs",
+    "name_cn": "\u6837\u5305",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/san_cristobal_noncuban/San-Cristobal_noncuban.jpg",
+    "cigar_count": 11,
+    "id": 1271,
+    "name": "San Cristobal",
+    "name_cn": "\u5723\u514b\u91cc\u65af\u591a(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/serino/SerinoCigar.jpg",
+    "cigar_count": 18,
+    "id": 1272,
+    "name": "Serino",
+    "name_cn": "\u585e\u91cc\u8bfa",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/stolen_throne/Stolen_Throne.jpg",
+    "cigar_count": 12,
+    "id": 1273,
+    "name": "Stolen Throne",
+    "name_cn": "\u88ab\u76d7\u7684\u738b\u5ea7",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/tabac_de_la_semois/semois-cigars.jpg",
+    "cigar_count": 6,
+    "id": 1274,
+    "name": "Tabac de la Semois",
+    "name_cn": "\u745f\u83ab\u4f0a\u65af\u70df\u8349",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/tatiana/tatina.jpg",
+    "cigar_count": 29,
+    "id": 1275,
+    "name": "Tatiana",
+    "name_cn": "\u5854\u8482\u4e9a\u5a1c",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/trinidad_noncuban/Trinidad_noncuban.jpg",
+    "cigar_count": 14,
+    "id": 1276,
+    "name": "Trinidad",
+    "name_cn": "\u7279\u7acb\u5c3c\u8fbe(\u975e\u53e4)",
+    "origin": "nonCuban"
+  },
+  {
+    "brand_img": "/images/brands/united_cigar/UnitedCigars-brand-thmub.jpg",
+    "cigar_count": 14,
+    "id": 1277,
+    "name": "United Cigar",
+    "name_cn": "\u8054\u5408\u96ea\u8304",
+    "origin": "nonCuban"
+  }
+]
